@@ -1,5 +1,3 @@
 #Summary
 
 * [Cover](README.md)
-* 
-* 
