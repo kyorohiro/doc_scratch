@@ -7,9 +7,15 @@ https://scratch.mit.edu/
 
 ![](base001_make.png)
 
+　
+　　
+　　
+　　　
+　
 
 
 #### [2] 作るまたは、やってみるを選択してみましょう
 
 
+![](base001_make_002.png)
 
