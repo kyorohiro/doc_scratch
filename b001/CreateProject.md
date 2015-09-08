@@ -5,7 +5,7 @@
 #### [1] Scratchのページにアクセスしてみましょう
 https://scratch.mit.edu/
 
-
+![](base001_make.png)
 
 
 
