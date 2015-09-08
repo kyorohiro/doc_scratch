@@ -22,5 +22,5 @@ https://scratch.mit.edu/projects/75433800/
  * While文
  * if文
  * イベント文
- 
+ * 衝突判定
 
