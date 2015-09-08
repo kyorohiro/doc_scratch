@@ -21,6 +21,7 @@ https://scratch.mit.edu/projects/75433800/
 * プログラム
  * While文
  * if文
+ * 変数
  * イベント文
  * 衝突判定
 
