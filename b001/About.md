@@ -21,4 +21,6 @@ https://scratch.mit.edu/projects/75433800/
 * プログラム
  * While文
  * if文
+ * イベント文
+ 
 
