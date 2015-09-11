@@ -4,7 +4,7 @@
 
 ![](move_right.png)
 
-### 
+
 ### [1] Sprite1を左クリック
 ![](base001_make_002_a.png)
 
