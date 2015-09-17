@@ -2,4 +2,8 @@
 
 左キーを押したら、左に移動するスクリプトを追加してみよう。
 
-![](move_right.png)
+![](move_right_left.png)
+
+
+
+
