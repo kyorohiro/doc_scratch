@@ -10,7 +10,7 @@
 https://scratch.mit.edu/projects/75433800/
 
 
-* 数学
+* 算数/数学
  * 足し算
  * 引き算
  * x座標とy座標
