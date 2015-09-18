@@ -23,3 +23,8 @@
 
 ![](newsprite_script_shot_002.png)
 
+
+# ジャンプさせる
+
+![](newsprite_script_jump_001.png)
+![](newsprite_script_jump_002.png)
