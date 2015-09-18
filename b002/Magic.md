@@ -31,4 +31,7 @@
 ![](newsprite_script_jump_002.png)
 ![](newsprite_script_jump_003.png)
 
+## 地面を作成
 
+![](newsprite_script_jump_004.png)
+![](newsprite_script_jump_005.png)
