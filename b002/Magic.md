@@ -11,4 +11,6 @@
 
 
 
-### 
+### Spriteを非表示にする
+
+![](newsprite_script_001.png)
