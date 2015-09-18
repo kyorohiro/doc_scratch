@@ -23,3 +23,4 @@
 
 ![](newsprite_script_shot_002.png)
 
+![](newsprite_script_jump_002.png)
