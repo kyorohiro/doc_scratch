@@ -2,8 +2,13 @@
 
 魔法を放ってみましょう。
 
+### Spiteを追加する
 ![](new_sprite_001.png)
 
 ![](new_sprite_002.png)
 
 ![](new_sprite_003.png)
+
+
+
+### 
