@@ -12,7 +12,6 @@
 
 
 ### Spriteを非表示にする
-
 ![](newsprite_script_hide_001.png)
 
 ![](newsprite_script_001.png)
@@ -26,5 +25,10 @@
 
 # ジャンプさせる
 
+## 自由落下
+
 ![](newsprite_script_jump_001.png)
 ![](newsprite_script_jump_002.png)
+![](newsprite_script_jump_003.png)
+
+
