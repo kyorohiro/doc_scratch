@@ -16,3 +16,6 @@
 ![](newsprite_script_hide_001.png)
 
 ![](newsprite_script_001.png)
+
+
+### Aキーが押されたら、表示する
