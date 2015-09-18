@@ -18,4 +18,5 @@
 ![](newsprite_script_001.png)
 
 
-### Aキーが押されたら、表示する
+### Aキーが押されたら、shotをはなつ
+![](newsprite_script_shot_001.png)
