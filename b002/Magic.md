@@ -35,3 +35,5 @@
 
 ![](newsprite_script_jump_004.png)
 ![](newsprite_script_jump_005.png)
+
+## 地面に衝突したら、落下が止まる
