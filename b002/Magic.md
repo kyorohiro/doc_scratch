@@ -41,3 +41,4 @@
 
 ## aキーが押されあたら、ジャンプする
 
+![](newsprite_script_jump_007.png)
