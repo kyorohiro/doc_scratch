@@ -20,3 +20,6 @@
 
 ### Aキーが押されたら、shotをはなつ
 ![](newsprite_script_shot_001.png)
+
+![](newsprite_script_shot_002.png)
+
