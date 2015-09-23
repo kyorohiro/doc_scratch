@@ -10,6 +10,9 @@
 Oscilloscopeとアナログ回路を用いて作成されたものです。当時のデジタルコンピュータには、パンチカードでプログラムを書き、プリンターで結果を出力していました。当時のデジタルコンピュータは、ビデオゲームを動かすような能力はもっていなかったのです。
 
 
+## Tennis for war
+
+
 # ref
 http://www.cbc.ca/news/technology/video-games-turn-50-1.703624
 https://ja.wikipedia.org/wiki/Tennis_for_Two
