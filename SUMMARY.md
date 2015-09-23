@@ -2,7 +2,7 @@
 
 * [炎の型](README.md)
 * [Tennis Of Two](tennis_of_two/README.md)
-  * [作ろう](tennis_of_two/create_project/README.md)
+  * [プロジェクトを作る](tennis_of_two/create_project/README.md)
 * [Spacewar!](spacewar/README.md)
 * [Pong](pong/README.md)
 * [基礎鍛錬のゴール](b001/About.md)
