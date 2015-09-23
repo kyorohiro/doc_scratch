@@ -21,6 +21,7 @@ https://youtu.be/u6mu5B-YZU8
 
 
 ## Scratchで作成してみよう
+https://scratch.mit.edu/projects/77983448/
 
 
 ## 用語
