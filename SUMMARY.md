@@ -1,7 +1,6 @@
 #Summary
 
 * [炎の型](README.md)
-
 * [Tennis Of Two](tennis_of_two/Readme.md)
 * [Spacewar!](spacewar/Readme.md)
 * [Pong](pong/Readme.md)
