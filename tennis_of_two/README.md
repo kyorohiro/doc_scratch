@@ -5,7 +5,9 @@
 ビデオゲームと言(い)われています。
 このゲームは、1958年(ねん)に公開(こうかい)されました。
 
-アメリカの物理学者(ぶつりがくしゃ)である、William Higinbotham(ウィリアム・ヒギンボーサム)によって作成(さくせい)されました。
+アメリカの物理学者(ぶつりがくしゃ)である、William Higinbotham(ウィリアム・ヒギンボーサム)によって作成(さくせい)されました。Brookhaven National Laboratoryの来訪者(らいほうしゃ)向(む)けに作成されたものです。
+
+ミサイルの弾道を計算する事ができる
 
 この時代のコンピュータは、紙テープ
 マンハッタン計画 
@@ -18,6 +20,7 @@
 
 
 # ref
+http://www.cbc.ca/news/technology/video-games-turn-50-1.703624
 https://ja.wikipedia.org/wiki/Tennis_for_Two
 http://gamersbox.net/pages/history_of_video_game/
 http://www.nicovideo.jp/watch/sm10824956
