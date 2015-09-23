@@ -25,6 +25,7 @@ https://youtu.be/u6mu5B-YZU8
 
 ## Scratchで作成してみよう
 https://scratch.mit.edu/projects/77983448/
+
 ![](scratch_tennis_for_two_02a.png)
 
 次の章から、作成していきます。マウスで角度を調節して、Spaceキーでボールを打ちます。一人用です。
