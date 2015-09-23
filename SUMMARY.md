@@ -1,7 +1,7 @@
 #Summary
 
 * [炎の型](README.md)
-* [Tennis Of Two](tennis_of_two/Readme.md)
+* [Tennis Of Two](tennis_of_two/README.md)
 * [Spacewar!](spacewar/README.md)
 * [Pong](pong/Readme.md)
 * [基礎鍛錬のゴール](b001/About.md)
