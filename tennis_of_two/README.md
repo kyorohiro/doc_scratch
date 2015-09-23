@@ -13,6 +13,7 @@
 ## Tennis for two
 https://youtu.be/u6mu5B-YZU8
 
+![](tennis_for_two_001a.png)
 # 用語
 * オシロスコープ
 電位差(でんいさ)を2次元(じげん)グラフとそと表示する装置(そうち)
