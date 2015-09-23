@@ -13,6 +13,9 @@
 ## Tennis for two
 https://youtu.be/u6mu5B-YZU8
 
+# 用語
+* オシロスコープ
+電位差(でんいさ)を2次元(じげん)グラフとそと表示する装置(そうち)
 # ref
 https://www.bnl.gov/about/history/firstvideo.php
 http://www.cbc.ca/news/technology/video-games-turn-50-1.703624
