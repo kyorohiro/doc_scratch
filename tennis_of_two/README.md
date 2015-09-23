@@ -24,6 +24,8 @@ https://youtu.be/u6mu5B-YZU8
 https://scratch.mit.edu/projects/77983448/
 ![](scratch_tennis_for_two_02a.png)
 
+次の章から、作成していきます。
+
 ## 用語
 * オシロスコープ
 電位差(でんいさ)を2次元(じげん)グラフとそと表示する装置(そうち)
