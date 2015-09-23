@@ -4,7 +4,7 @@
 * [基礎鍛錬のゴール](b001/About.md)
 * [Tennis Of Two](tennis_of_two/Readme.md)
 * [Pong](pong/Readme.md)
-* [Spacewar!] 
+* [Spacewar!](spacewar/Readme.md)
 * [基礎鍛錬(きそたんれん) 移動の型]
   * [数(かず) と 数字(すうじ)]b001/Number.md
   * [大(おお)きな数(かず)]
