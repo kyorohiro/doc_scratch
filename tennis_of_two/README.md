@@ -7,6 +7,9 @@
 
 アメリカの物理学者(ぶつりがくしゃ)である、William Higinbotham(ウィリアム・ヒギンボーサム)によって作成(さくせい)されました。Brookhaven National Laboratoryの来訪者(らいほうしゃ)向(む)けに作成(さくせい)されたものです。
 
+Los Alamos research electronic部門のトップ
+時限回路を担当
+
 ミサイルの弾道を計算する事ができる
 
 この時代のコンピュータは、紙テープ
