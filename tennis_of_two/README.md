@@ -1,6 +1,6 @@
 # Tennis for two (テニス　フォー　ツー)
 
-世界で初めて
+「Tennis for two」は世界(せかい)で初(はじ)めて
 
 
 
