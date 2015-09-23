@@ -31,4 +31,4 @@ http://www.cbc.ca/news/technology/video-games-turn-50-1.703624
 https://ja.wikipedia.org/wiki/Tennis_for_Two
 http://gamersbox.net/pages/history_of_video_game/
 http://www.nicovideo.jp/watch/sm10824956
-http://scienceblogs.com/brookhaven/2011/01/24/so-you-wanna-rebuild-one-of-th/
+https://www.bnl.gov/about/history/
