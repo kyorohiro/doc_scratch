@@ -20,10 +20,11 @@ https://youtu.be/u6mu5B-YZU8
 コントローラには、二つの操作機器がついていて、図のAの部分を回して角度をきめて、図のBの部分を押すことでボールを弾くことができた。
 
 
-\# 用語
+## 用語
 * オシロスコープ
 電位差(でんいさ)を2次元(じげん)グラフとそと表示する装置(そうち)
-# ref
+
+## ref
 https://www.bnl.gov/about/history/firstvideo.php
 http://www.cbc.ca/news/technology/video-games-turn-50-1.703624
 https://ja.wikipedia.org/wiki/Tennis_for_Two
