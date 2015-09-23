@@ -11,7 +11,7 @@ Oscilloscopeとアナログ回路を用いて作成されたものです。当�
 
 
 ## Tennis for war
-
+https://youtu.be/u6mu5B-YZU8
 
 # ref
 http://www.cbc.ca/news/technology/video-games-turn-50-1.703624
