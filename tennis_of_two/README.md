@@ -22,7 +22,7 @@ https://youtu.be/u6mu5B-YZU8
 
 ## Scratchで作成してみよう
 https://scratch.mit.edu/projects/77983448/
-
+![](scratch_tennis_for_two_02a.png)
 
 ## 用語
 * オシロスコープ
