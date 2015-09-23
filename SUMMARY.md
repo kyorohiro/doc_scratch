@@ -1,10 +1,11 @@
 #Summary
 
 * [炎の型](README.md)
-* [基礎鍛錬のゴール](b001/About.md)
+
 * [Tennis Of Two](tennis_of_two/Readme.md)
 * [Spacewar!](spacewar/Readme.md)
 * [Pong](pong/Readme.md)
+* [基礎鍛錬のゴール](b001/About.md)
 * [基礎鍛錬(きそたんれん) 移動の型]
   * [数(かず) と 数字(すうじ)]b001/Number.md
   * [大(おお)きな数(かず)]
