@@ -21,6 +21,7 @@ https://youtu.be/u6mu5B-YZU8
 コントローラには、二つの操作機器がついていて、図のAの部分を回して角度をきめて、図のBの部分を押すことでボールを弾くことができた。
 
 
+
 ## Scratchで作成してみよう
 https://scratch.mit.edu/projects/77983448/
 ![](scratch_tennis_for_two_02a.png)
