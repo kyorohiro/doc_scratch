@@ -12,6 +12,7 @@
 * [Spacewar!](spacewar/README.md)
 * [Pong](pong/README.md)
   * [プロジェクトを作る](pong/create_project/README.md)
+  * [ラケットを作る]
 * [基礎鍛錬のゴール](b001/About.md)
 * [基礎鍛錬(きそたんれん) 移動の型]
   * [数(かず) と 数字(すうじ)]b001/Number.md
