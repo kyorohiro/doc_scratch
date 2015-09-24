@@ -8,3 +8,4 @@
 
 ![](racket_script_001a.png)
 
+![](racket_script_002a.png)
