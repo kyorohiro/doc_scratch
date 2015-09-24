@@ -5,7 +5,7 @@
 #### [1] Scratchのページにアクセスしてみましょう
 https://scratch.mit.edu/
 
-
+![](base001_make.png)
 
 　
 　　
@@ -16,6 +16,6 @@ https://scratch.mit.edu/
 
 #### [2] 「作る」または、「やってみる」を選択してみましょう
 
-
+![](base001_make_002.png)
 
 ゲームに開発画面が表示されます。
