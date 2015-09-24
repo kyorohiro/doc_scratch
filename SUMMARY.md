@@ -15,7 +15,7 @@
   * [ラケットを作る](pong/create_racket/README.md)
   * [コースを追加](pong/create_cource/README.md)
   * [ボール](pong/create_ball/README.md)
-  * [ラケッにあたると跳ね返る]()
+  * [ラケッにあたると跳ね返る](pong/bouncing/README.md)
 * [基礎鍛錬のゴール](b001/About.md)
 * [基礎鍛錬(きそたんれん) 移動の型]
   * [数(かず) と 数字(すうじ)]b001/Number.md
