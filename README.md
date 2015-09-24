@@ -9,45 +9,49 @@
  
 
 # About
-「炎の型」を、作成するのに必要な作法についてまとめたものです。
-
-私たちが見える世界は、世界を捉える人によって、その様相を変えます。
-
-「炎は風...」yyより、といった感じで、その見方によって、内在するエトスは変化するのです。
-...
-
-
-プログラムを通して、観察、発見、検証、表現、を行い。独自の感性を磨くことができます。
-
-
-この、観察、発見、表現、根源的なもので、科学的な考察のそのものです。
-
-プログラムは、科学的な思考を身に着けるのにもっとも、容易な方法の一つです。
-この機会に、Scrachtをとおして、プログラムの基礎、つまりは、科学的思考の基礎を手に入れてみてください。
-
-
+* [Tennis Of Two](tennis_of_two/README.md) <難易度 中上>
+  * [プロジェクトを作る](tennis_of_two/create_project/README.md)
+  * [ボールを追加する](tennis_of_two/create_ball/README.md)
+  * [自由落下](tennis_of_two/free_fall/README.md)
+  * [跳ねる](tennis_of_two/bouncing_ball/README.md)
+  * [左右に移動](tennis_of_two/right_left/README.md)
+  * [ボールを打つ](tennis_of_two/shot_ball/README.md)
+  * [Coatを作成する](tennis_of_two/create_court/README.md)
+* [Spacewar!](spacewar/README.md) <難易度 上下>
+* [Pong](pong/README.md) <難易度 中>
+  * [プロジェクトを作る](pong/create_project/README.md)
+  * [ラケットを作る](pong/create_racket/README.md)
+  * [コースを追加](pong/create_cource/README.md)
+  * [ボール](pong/create_ball/README.md)
+  * [跳ね返るボール](pong/bouncing/README.md)
+  * [勝ち負けを判定する](pong/win_lose/README.md)
+  * [打つ向きを変える](pong/direction/README.md)
+* [基礎鍛錬のゴール](b001/About.md)
 * [基礎鍛錬(きそたんれん) 移動の型]
-  * [右(みぎ)へ移動(いどう)]
-  * [左(ひだり)へ移動(いどう)]
-  * [上(うえ)へ移動(いどう)]
-  * [下(した)へ移動(いどう)]
-  * [演武(えんぶ):斜(ななめ)めに移動(いどう)]
-  * [矢印に応じて移動]
+  * [数(かず) と 数字(すうじ)]b001/Number.md
+  * [大(おお)きな数(かず)]
+  * [足し算(たしざん)]
+  * [引き算(ひきざん)]
+  * [開発画面を表示する](b001/CreateProject.md)
+  * [右(みぎ)に移動(いどう)](b001/MoveRight.md)
+  * [左(ひだり)に移動(いどう)](b001/MoveLeft.md)
+  * [上(うえ)に移動(いどう)](b001/MoveUp.md)
+  * [下(した)に移動(いどう)](b001/MoveDown.md)
+  * 座興って何だろう
+    * [座標って何だろう:X座標が左右で、Y座標が上下](b001/GridChart.md)
+    * [座標って何だろう:足し算で上、右に移動、引き算で下、左に移動](b001/GridChart02.md)
+    * [座標って何だろう:演習問題](b001/GridChart03.md)
+  * アニメーションをつける
+    * [歩く](b001/Walk.md)
 * [基礎鍛錬(きそたんれん) 動作の型]
-  * [魔法を放つ]
-  * [跳ねる]
-  * [大地]
+  * [魔法を放つ](b002/Magic.md)
+  * [跳ねる](b002/Jump.md)
+  * [加速度について]
 * [基礎鍛錬(きそたんれん) モンスター]
-  * ドラゴンを召喚
-  * ドラゴンを移動
-  * ドセゴンが炎を吐く
+  * [ドラゴンを召喚](b003/Monster.md)
 * [基礎鍛錬(きそたんれん)ダメージ]
-  * 攻撃を受ける
-  * 攻撃を当てる
+  * [攻撃を与える](b004/MonsterDamage.md)
 * [基礎鍛錬(きそたんれん)シーン]
+  * [シーン](b005/Scene.md)
 * [基礎鍛錬(きそたんれん)音楽]
-* [土の型]
-* [火の型]
-* [水の型]
-* [雷の型]
-
+  * [バックグラウンドミュージック](b006/Music.md)  
