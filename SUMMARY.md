@@ -16,6 +16,7 @@
   * [コースを追加](pong/create_cource/README.md)
   * [ボール](pong/create_ball/README.md)
   * [跳ね返るボール](pong/bouncing/README.md)
+  * [勝ち負けを判定する]
 * [基礎鍛錬のゴール](b001/About.md)
 * [基礎鍛錬(きそたんれん) 移動の型]
   * [数(かず) と 数字(すうじ)]b001/Number.md
