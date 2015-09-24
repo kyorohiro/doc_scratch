@@ -10,7 +10,7 @@
   * [ボールを打つ](tennis_of_two/shot_ball/README.md)
   * [Coatを作成する](tennis_of_two/create_court/README.md)
 * [Spacewar!](spacewar/README.md) <難易度 上下>
-  * [プロジェクトを作成する]
+  * [プロジェクトを作成する]()
 * [Pong](pong/README.md) <難易度 中>
   * [プロジェクトを作る](pong/create_project/README.md)
   * [ラケットを作る](pong/create_racket/README.md)
