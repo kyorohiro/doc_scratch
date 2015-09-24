@@ -6,4 +6,5 @@ PDP1という、１0万～20万ドル(現在の価格で1億～2億円)で販売
 
 
 https://youtu.be/Rmvb4Hktv7U
+
 ![](about.png)
