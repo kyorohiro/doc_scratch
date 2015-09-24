@@ -1,7 +1,7 @@
 #Summary
 
 * [炎の型](README.md)
-* [Tennis Of Two](tennis_of_two/README.md)
+* [Tennis Of Two](tennis_of_two/README.md) <難易度 中上>
   * [プロジェクトを作る](tennis_of_two/create_project/README.md)
   * [ボールを追加する](tennis_of_two/create_ball/README.md)
   * [自由落下](tennis_of_two/free_fall/README.md)
@@ -9,8 +9,8 @@
   * [左右に移動](tennis_of_two/right_left/README.md)
   * [ボールを打つ](tennis_of_two/shot_ball/README.md)
   * [Coatを作成する](tennis_of_two/create_court/README.md)
-* [Spacewar!](spacewar/README.md)
-* [Pong](pong/README.md)
+* [Spacewar!](spacewar/README.md) <難易度 上下>
+* [Pong](pong/README.md)(難易度 中)
   * [プロジェクトを作る](pong/create_project/README.md)
   * [ラケットを作る](pong/create_racket/README.md)
   * [コースを追加](pong/create_cource/README.md)
