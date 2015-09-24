@@ -17,6 +17,7 @@
   * [ボール](pong/create_ball/README.md)
   * [跳ね返るボール](pong/bouncing/README.md)
   * [勝ち負けを判定する](pong/win_lose/README.md)
+  * [打つ向きを変える](pong/direction/README.md)
 * [基礎鍛錬のゴール](b001/About.md)
 * [基礎鍛錬(きそたんれん) 移動の型]
   * [数(かず) と 数字(すうじ)]b001/Number.md
