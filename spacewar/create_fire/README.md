@@ -18,3 +18,10 @@ https://scratch.mit.edu/projects/78601124/#player
 
 ![](f5_004a.png)
 
+
+#### (3) 確認してみよう
+https://scratch.mit.edu/projects/78601124/#player
+
+![](gravity_scratch_001.png)
+
+##### (2-1) 右上(むぎうえ)の緑色(みどりいろ)の旗(はた)をクリックしてください。ロケットが中央のボールに引き込まれます
