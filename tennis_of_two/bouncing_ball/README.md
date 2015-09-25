@@ -19,6 +19,8 @@ https://scratch.mit.edu/projects/78270956/
 ##### (2-3) 上記(かき)スクリプトを追加(ついか)してください
 ![](bouncing_script_002.png)
 
+**※ 「Yの速度(そくど)」変数を作るときは、「このSpriteのみ」にチェックを入れてください**
+
 #### (3) 確認してみる
 https://scratch.mit.edu/projects/78270956/
 
