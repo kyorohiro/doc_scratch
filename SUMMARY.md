@@ -16,6 +16,7 @@
   * [旋回機能を作る](spacewar/create_spin/README.md)
   * [推進機能を作る](spacewar/create_thrust/README.md)
   * [魚雷発射機能を作る](spacewar/create_fire/README.md)
+  * [的を作る](spacewar/createTarget/README.md)
 * [Pong](pong/README.md) <難易度 中>
   * [プロジェクトを作る](pong/create_project/README.md)
   * [ラケットを作る](pong/create_racket/README.md)
