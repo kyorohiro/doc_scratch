@@ -16,7 +16,7 @@
   * [ロケットと重力を作る](spacewar/create_rocket/README.md)
   * [旋回機能を作る](spacewar/create_spin/README.md)
   * [推進機能を作る](spacewar/create_thrust/README.md)
-  * [魚雷発射機能を作る](spacewar/create_fire/README.md)
+  * [機雷発射機能を作る](spacewar/create_fire/README.md)
   * [的を作る](spacewar/createTarget/README.md)
   * [完成](spacewar/goal/README.md)
 * [Pong](pong/README.md) <難易度 中>
