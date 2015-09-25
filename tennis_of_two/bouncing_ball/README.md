@@ -22,5 +22,5 @@ https://scratch.mit.edu/projects/78270956/
 #### (3) 確認してみる
 https://scratch.mit.edu/projects/78270956/
 
-
-##### (3-1) 
+![](bouncing_scratch_001.png)
+##### (3-1) 右上の緑色の旗をクリックする。地面に衝突すると跳ね返ることを確認する。
