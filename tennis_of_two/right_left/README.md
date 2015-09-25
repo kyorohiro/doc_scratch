@@ -7,5 +7,6 @@
 ![](right_left_script_001.png)
 
 #### (2) 確認する
+https://scratch.mit.edu/projects/78304898/
 
 ![](right_left_scratch.png)
