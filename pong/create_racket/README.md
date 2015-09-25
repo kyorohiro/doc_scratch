@@ -9,6 +9,8 @@ https://scratch.mit.edu/pついかrojects/78407350/
 ##### (1-4) 画面中央に赤色
 の長方形をかく
 
+#### (2) Sprite1 を削除する
+
 ![](create_racket_002a.png)
 
 ![](create_racket_004a.png)
