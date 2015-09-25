@@ -18,4 +18,8 @@ https://scratch.mit.edu/projects/78444962/
 
 #### (3) 確認してみよう
 https://scratch.mit.edu/projects/78444962/
+
+![](create_ball_scratch.png)
+
 上手く書けたか確認してみましょう
+##### (3-1) 右上の緑色の旗をクリックすると、ボールが右に移動します。
