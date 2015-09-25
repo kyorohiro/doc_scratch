@@ -1,5 +1,6 @@
 # 跳ねる
 https://scratch.mit.edu/projects/78270956/
+
 大地を追加して、地面に衝突したボールを跳ねさせよう
 
 #### (1) 背景に地面を描く
@@ -19,4 +20,7 @@ https://scratch.mit.edu/projects/78270956/
 
 
 #### (3) 確認してみる
+https://scratch.mit.edu/projects/78270956/
+
+
 ##### (3-1) 
