@@ -1,5 +1,6 @@
-# 太陽を作る
+# 太陽を追加する
 https://scratch.mit.edu/projects/78594872/
+
 
 ![](f1_001a.png)
 
