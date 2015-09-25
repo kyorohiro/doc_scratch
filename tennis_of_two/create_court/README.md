@@ -18,3 +18,6 @@ https://scratch.mit.edu/projects/78314736/
 ##### (2-3) 下記(かき)スクリプトを追加(ついか)してください
 ![](coat_script_001a.png)
 
+
+#### 確認する
+##### 
