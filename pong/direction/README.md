@@ -17,3 +17,6 @@ https://scratch.mit.edu/projects/78437120/#player
 ![](ball_script_005a.png)
 
 
+#### (4) 確認しよう
+https://scratch.mit.edu/projects/78437120/#player
+##### (4-1)
