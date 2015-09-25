@@ -12,5 +12,5 @@ https://scratch.mit.edu/projects/78437120/#player
 ![](racket_script_005a.png)
 
 
-#### (3) ボールが跳ね返る向きを変更
+#### (3) ラケット記録したをもとに、ボールが跳ね返る向きを決める
 ![](ball_script_005a.png)
