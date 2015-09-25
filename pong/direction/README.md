@@ -22,4 +22,4 @@ https://scratch.mit.edu/projects/78437120/#player
 
 ![](score_scratch_001a.png)
 
-##### (4-1)
+##### (4-1) ボールがラケットに当たる瞬間にラケットを移動すると移動した向きに、ボールが移動すること
