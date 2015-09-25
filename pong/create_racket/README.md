@@ -31,3 +31,6 @@ https://scratch.mit.edu/pついかrojects/78407350/
 ![](racket_script_002a.png)
 
 
+#### (5) 確認してみよう
+
+https://scratch.mit.edu/pついかrojects/78407350/
