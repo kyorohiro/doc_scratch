@@ -33,7 +33,7 @@ https://scratch.mit.edu/projects/78594872/
 #### (4) 確認してみよう
 https://scratch.mit.edu/projects/78594872/
 
-![](createball_scratch_001a.png)
+![](create_sun_scratch_001.png)
 
 ##### (2-1) 右上(むぎうえ)の緑色(みどりいろ)の旗(はた)をクリックしてください。ボールが中央に表示されます
 
