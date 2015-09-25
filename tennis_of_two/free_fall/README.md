@@ -17,7 +17,9 @@ https://scratch.mit.edu/projects/78216824/
 
 #### (2) 確認してみよう
 https://scratch.mit.edu/projects/78216824/
+![](createball_scratch_001a.png)
 
+##### (2-1) 
 旗ボタンを押してみましょう。
 ボールが落下します。
 
