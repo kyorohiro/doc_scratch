@@ -13,7 +13,8 @@ https://scratch.mit.edu/projects/78216824/
 
 ##### (1-3) 下記(かき)スクリプトを追加(ついか)してください
 ![](free_fall_script.png)
-※ 変数を作るときは、「このSpriteのみ」にチェックを入れてください
+
+**※ 「Yの速度(そくど)」変数を作るときは、「このSpriteのみ」にチェックを入れてください**
 
 #### (2) 確認してみよう
 https://scratch.mit.edu/projects/78216824/
