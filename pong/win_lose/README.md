@@ -8,3 +8,5 @@
 
 ##### (1-2) 確認(かくにん)してみよう
 https://scratch.mit.edu/projects/78435366/
+
+![](score_scratch_001a.png)
