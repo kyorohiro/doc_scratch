@@ -8,8 +8,6 @@
 ![](shot_script_001.png)
 
 
-#### (2) 確認する
-https://scratch.mit.edu/projects/78304898/
-
+https://scratch.mit.edu/projects/78309820/
 
 ##### (2-1) 右上の緑色の旗をクリックする。地面に衝突すると跳ね返ることを確認する。
