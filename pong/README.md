@@ -16,4 +16,7 @@ Pongは対戦ゲームです。左右に配置されたラケットを、上下�
 
 https://scratch.mit.edu/projects/77999912/
 
-![](about_scratch_001.png)
+![](about_scratch_002a.png)
+
+ボールが青色の部分に衝突すると、右側に得点が入ります。ボールが赤色の部分に衝突すると、左側に得点が入ります。
+
