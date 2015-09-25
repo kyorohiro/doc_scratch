@@ -11,7 +11,7 @@ https://scratch.mit.edu/projects/78600004/
 #### (2) 確認してみよう
 https://scratch.mit.edu/projects/78600004/
 
-![](gravity_scratch_001.png)
+![](spin_scratch_001.png)
 
 ##### (2-1) 右上(むぎうえ)の緑色(みどりいろ)の旗(はた)をクリックしてください。
 ##### (2-2) 左キーを押したら左に旋回すること
