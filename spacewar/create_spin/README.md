@@ -9,7 +9,7 @@ https://scratch.mit.edu/projects/78600004/
 
 
 #### (2) 確認してみよう
-https://scratch.mit.edu/projects/78596462/
+https://scratch.mit.edu/projects/78600004/
 
 ![](gravity_scratch_001.png)
 
