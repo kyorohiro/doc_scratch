@@ -9,6 +9,7 @@
 ##### (1-3)「Ball」をクリック
 ##### (1-4) 右下のOKをクリック
 
+#### (2) 
 ![](create_ball_003a.png)
 
 ![](create_ball_004a.png)
