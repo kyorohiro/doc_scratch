@@ -8,3 +8,4 @@
 
 #### (2) 確認する
 
+![](right_left_scratch.png)
