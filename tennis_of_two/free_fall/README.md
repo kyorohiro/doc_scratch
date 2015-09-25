@@ -14,7 +14,8 @@ https://scratch.mit.edu/projects/78216824/
 ![](free_fall_script.png)
 
 
-## 補足
+#### (2) 確認してみよう
+
 旗ボタンを押してみましょう。
 ボールが落下します。
 
