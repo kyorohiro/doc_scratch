@@ -1,5 +1,6 @@
 # 自由落下させる
 https://scratch.mit.edu/projects/78216824/
+
 自由落下のスクリプトを追加する。
 
 
@@ -15,6 +16,7 @@ https://scratch.mit.edu/projects/78216824/
 
 
 #### (2) 確認してみよう
+https://scratch.mit.edu/projects/78216824/
 
 旗ボタンを押してみましょう。
 ボールが落下します。
