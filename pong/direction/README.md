@@ -19,4 +19,6 @@ https://scratch.mit.edu/projects/78437120/#player
 
 #### (4) 確認しよう
 https://scratch.mit.edu/projects/78437120/#player
+
+![](score_scratch_001a.png)
 ##### (4-1)
