@@ -13,7 +13,8 @@ https://scratch.mit.edu/projects/78420962/
 ######(1-2-1) 右上の緑色の旗をクリックすると、ボールがラケットで跳ね返って左右に移動します
 
 
-#### (2) 
+#### (2) 壁に衝突するとボールが跳ね返る機能をついか
+
 
 https://scratch.mit.edu/projects/78430612/
 ![](racket_script_003a.png)
