@@ -16,6 +16,8 @@ https://scratch.mit.edu/pついかrojects/78407350/
 ##### (2-2) 右(みぎ)クリックする
 ##### (2-3) メニューから削除(さくじょ)を選(えら)ぶ
 
+#### (3)ラケットにスクリプトを追加する
+
 ![](create_racket_004a.png)
 
 ![](racket_script_001a.png)
