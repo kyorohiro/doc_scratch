@@ -17,4 +17,8 @@ https://scratch.mit.edu/projects/78420962/
 ##### (2-1) ボールSpriteに以下のスクリプトを追加してください
 ![](racket_script_003a.png)
 
-https://scratch.mit.edu/projects/78430612/
+##### (2-2) 確認してみよう
+https://scratch.mit.edu/projects/78420962/
+
+![](bouncing_scratch_001.png)
+
