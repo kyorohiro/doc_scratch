@@ -19,7 +19,5 @@ https://scratch.mit.edu/projects/78216824/
 https://scratch.mit.edu/projects/78216824/
 ![](createball_scratch_001a.png)
 
-##### (2-1) 
-旗ボタンを押してみましょう。
-ボールが落下します。
+##### (2-1) 右上(むぎうえ)の緑色(みどりいろ)の旗(はた)をクリックしてください。ボールが落下します。
 
