@@ -1,5 +1,5 @@
 # ラケットを作(つく)る
-https://scratch.mit.edu/pついかrojects/78407350/
+https://scratch.mit.edu/projects/78407350/
 
 #### (1) 赤と青のラケットを作成する。
 ![](create_racket_001a.png)
@@ -33,4 +33,4 @@ https://scratch.mit.edu/pついかrojects/78407350/
 
 #### (5) 確認してみよう
 
-https://scratch.mit.edu/pついかrojects/78407350/
+https://scratch.mit.edu/projects/78407350/
