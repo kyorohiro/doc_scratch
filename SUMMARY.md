@@ -22,7 +22,7 @@
   * [ラケットを作る](pong/create_racket/README.md)
   * [コースを追加](pong/create_cource/README.md)
   * [ボール](pong/create_ball/README.md)
-  * [跳ね返るボール](pong/bouncing/README.md)
+  * [ボールが跳ね返る機能をついか](pong/bouncing/README.md)
   * [勝ち負けを判定する](pong/win_lose/README.md)
   * [打つ向きを変える](pong/direction/README.md)
 * [基礎鍛錬のゴール](b001/About.md)
