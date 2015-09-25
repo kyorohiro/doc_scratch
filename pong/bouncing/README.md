@@ -14,7 +14,7 @@ https://scratch.mit.edu/projects/78420962/
 
 
 #### (2) 壁に衝突するとボールが跳ね返る機能をついか
-
+##### (2-1) ボールSpriteに以下のスクリプトを追加してください
+![](racket_script_003a.png)
 
 https://scratch.mit.edu/projects/78430612/
-![](racket_script_003a.png)
