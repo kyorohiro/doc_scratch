@@ -11,6 +11,7 @@
   * [Coatを作成する](tennis_of_two/create_court/README.md)
 * [Spacewar!](spacewar/README.md) <難易度 上下>
   * [プロジェクトを作成する](spacewar/create_project/README.md)
+  * [太陽を作る](spacewar/create_sun/README.md)
 * [Pong](pong/README.md) <難易度 中>
   * [プロジェクトを作る](pong/create_project/README.md)
   * [ラケットを作る](pong/create_racket/README.md)
