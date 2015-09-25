@@ -18,8 +18,7 @@ https://scratch.mit.edu/projects/78420962/
 ![](racket_script_003a.png)
 
 ##### (2-2) 確認してみよう
-https://scratch.mit.edu/projects/78420962/
-
+https://scratch.mit.edu/projects/78430612/
 ![](bouncing_scratch_001.png)
 
 ######(1-2-1) 右上の緑色の旗をクリックすると、ボールがラケットボールに跳ね返って上下左右に移動します
