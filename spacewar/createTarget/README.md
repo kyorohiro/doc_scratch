@@ -27,7 +27,8 @@ https://scratch.mit.edu/projects/78602454/
 #### (3) 確認してみよう
 https://scratch.mit.edu/projects/78602454/
 
-![](shot_scratch_001.png)
+
+![](target_scratch_001.png)
 
 ##### (3-1) 右上(むぎうえ)の緑色(みどりいろ)の旗(はた)をクリックしてください。
 ##### (3-2) aキーを押すと機雷が発射されることを確認してください
