@@ -21,7 +21,7 @@ https://scratch.mit.edu/projects/78270956/
 
 **※ 「Yの速度(そくど)」変数を作るときは、「このSpriteのみ」にチェックを入れてください**
 
-#### (3) 確認してみる
+#### (3) 確認(かくにん)してみる
 https://scratch.mit.edu/projects/78270956/
 
 ![](bouncing_scratch_001.png)
