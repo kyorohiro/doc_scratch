@@ -12,4 +12,4 @@ https://scratch.mit.edu/projects/78270956/
 ![](bouncing_002a.png)
 
 ## [3] スクリプトを追加
-![](bouncing_script.png)
+![](bouncing_script_002.png)
