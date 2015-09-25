@@ -17,3 +17,5 @@ https://scratch.mit.edu/projects/78444962/
 ![](ball_script_001a.png)
 
 #### (3) 確認してみよう
+https://scratch.mit.edu/projects/78444962/
+上手く書けたか確認してみましょう
