@@ -10,3 +10,4 @@
 https://scratch.mit.edu/projects/78304898/
 
 ![](right_left_scratch.png)
+##### (2-1) 右上の緑色の旗をクリックする。地面に衝突すると跳ね返ることを確認する。
