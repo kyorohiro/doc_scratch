@@ -33,5 +33,6 @@ https://scratch.mit.edu/projects/78270956/
 
 古典物理学の位置エネルギー
 ```
-
+1 / 2 × v × v 
+m × g × h     
 ```
