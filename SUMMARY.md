@@ -28,7 +28,7 @@
   * [勝ち負けを判定する](pong/win_lose/README.md)
   * [打つ向きを変える](pong/direction/README.md)
   * [完成!!](pong/goal/README.md)
-* [Dojo:インクランナー](ink_runner/README.md)
+* [Dojo:インクランナー](ink_runner/README.md) <難易度 下上>
 * [基礎鍛錬のゴール](b001/About.md)
 * [基礎鍛錬(きそたんれん) 移動の型]
   * [数(かず) と 数字(すうじ)]b001/Number.md
