@@ -36,10 +36,9 @@ https://scratch.mit.edu/projects/77983448/
 電位差(でんいさ)を2次元(じげん)グラフに表示(ひょうじ)する装置(そうち)
 
 ## ref
-https://www.bnl.gov/about/history/firstvideo.php
-http://www.cbc.ca/news/technology/video-games-turn-50-1.703624
-https://ja.wikipedia.org/wiki/Tennis_for_Two
-http://gamersbox.net/pages/history_of_video_game/
-http://www.nicovideo.jp/watch/sm10824956
-https://www.bnl.gov/about/history/
+* https://www.bnl.gov/about/history/firstvideo.php
+* http://www.cbc.ca/news/technology/video-games-turn-50-1.703624
+* https://ja.wikipedia.org/wiki/Tennis_for_Two
+* http://gamersbox.net/pages/history_of_video_game/
+* http://www.nicovideo.jp/watch/sm10824956
 
