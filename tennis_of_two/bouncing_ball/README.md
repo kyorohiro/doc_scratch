@@ -55,3 +55,5 @@ https://scratch.mit.edu/projects/78270956/
 このコードを追加したのは、ボールが地面に食い込んでしまった時の状態に対応するために追加しました。
 
 
+![](bouncingball_001f.png)
+
