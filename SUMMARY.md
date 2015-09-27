@@ -31,6 +31,7 @@
 * [Dojo:インクランナー](ink_runner/README.md) <難易度 下上>
   * [プロジェクトを作る](ink_runner/create_project/README.md)
   * [xxxって何だろう?](ink_runner/what_is_inkrunner/README.md)
+  * [キャラクターを移動する]()
 * [基礎鍛錬のゴール](b001/About.md)
 * [基礎鍛錬(きそたんれん) 移動の型]
   * [数(かず) と 数字(すうじ)]b001/Number.md
