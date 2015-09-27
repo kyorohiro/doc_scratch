@@ -1,6 +1,5 @@
 # インクランナー
 
-https://scratch.mit.edu/projects/78792936/
 
 CoderDojo 八王子 にて、集まったメンバーでセッションをしながら作成したものです。
 
@@ -10,6 +9,8 @@ CoderDojo 八王子 にて、集まったメンバーでセッションをしな
 
 
 ## インクランナー
+https://scratch.mit.edu/projects/78792936/
+
 ![](about_scratch.png)
 
 旗ボタンを押すとゲームが開始します。NekoとGigaを操作してインクを塗りあい自分のテリトリーを広げるゲームです。
