@@ -28,4 +28,6 @@ K : 「じゃ、キャラクターを、操作してみようか!!」
 
 https://scratch.mit.edu/projects/79028510/
 
+![](move_003a.png)
+
 
