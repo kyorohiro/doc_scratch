@@ -8,3 +8,5 @@
 # 確認してみよう
 
 https://scratch.mit.edu/projects/79097520/
+
+![](match3_003a.png)
