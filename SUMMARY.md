@@ -38,6 +38,7 @@
   * [対戦相手を作る(2)](ink_runner/fighting_game_2/README.md)
   * [対戦相手を作る(3)](ink_runner/fighting_game_3/README.md)
   * [完成!!](ink_runner/goal/README.md)
+  * [おまけ](ink_runner/bonus/README.md)
 * [基礎鍛錬のゴール](b001/About.md)
 * [基礎鍛錬(きそたんれん) 移動の型]
   * [数(かず) と 数字(すうじ)]b001/Number.md
