@@ -26,7 +26,7 @@ K : 「じゃ、キャラクターを、操作してみようか!!」
 
 では、上手く書けたか確認してみましょう。「右キー」を押したら、右に移動する王になったかな?
 
-https://scratch.mit.edu/projects/79028510/
+https://scratch.mit.edu/projects/79058386/
 
 ![](move_003a.png)
 
