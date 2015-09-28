@@ -9,3 +9,4 @@
 
 #### 動作確認してみましょう
 
+https://scratch.mit.edu/projects/79077708/
