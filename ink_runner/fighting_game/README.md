@@ -43,5 +43,8 @@ A : ..対戦ゲームにしたい
 
 
 #### 動作確認する
+https://scratch.mit.edu/projects/79077708/
+
+![](match_009a.png)
 
 
