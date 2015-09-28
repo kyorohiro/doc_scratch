@@ -8,3 +8,8 @@
 
 
 #### 確認する
+
+https://scratch.mit.edu/projects/79109154/
+
+![](b_005a.png)
+
