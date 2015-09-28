@@ -40,6 +40,7 @@
   * [完成!!](ink_runner/goal/README.md)
   * [おまけ: Timer(1)](ink_runner/bonus/README.md)
   * [おまけ: Timer(2)](ink_runner/timer_2/README.md)
+  * [おまけ: 判定](ink_runner/judgement/README.md)
 * [基礎鍛錬のゴール](b001/About.md)
 * [基礎鍛錬(きそたんれん) 移動の型]
   * [数(かず) と 数字(すうじ)]b001/Number.md
