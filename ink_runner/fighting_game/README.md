@@ -47,4 +47,7 @@ https://scratch.mit.edu/projects/79077708/
 
 ![](match_009a.png)
 
+動作確認してみましょう。上下左右キーに応じてキャラクターが移動します。
+
+
 
