@@ -32,6 +32,7 @@
   * [プロジェクトを作る](ink_runner/create_project/README.md)
   * [xxxって何だろう?](ink_runner/what_is_inkrunner/README.md)
   * [右に移動する](ink_runner/move_character/README.md)
+  * [左に移動する](ink_runner/move_left/README.md)
 * [基礎鍛錬のゴール](b001/About.md)
 * [基礎鍛錬(きそたんれん) 移動の型]
   * [数(かず) と 数字(すうじ)]b001/Number.md
