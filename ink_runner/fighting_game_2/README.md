@@ -7,6 +7,7 @@
 
 ![](match2_002b.png)
 
-#### 動作確認してみましょう
+
+#### 動作確認してみよう
 
 https://scratch.mit.edu/projects/79077708/
