@@ -35,6 +35,7 @@
   * [左に移動する](ink_runner/move_left/README.md)
   * [上下に移動する](ink_runner/up_down/README.md)
   * [対戦相手を作る](ink_runner/fighting_game/README.md)
+  * [対戦相手を作る 続き](ink_runner/fighting_game_2/README.md)
 * [基礎鍛錬のゴール](b001/About.md)
 * [基礎鍛錬(きそたんれん) 移動の型]
   * [数(かず) と 数字(すうじ)]b001/Number.md
