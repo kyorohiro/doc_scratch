@@ -14,3 +14,5 @@
 #### 確認してみよう
 
 https://scratch.mit.edu/projects/79028510/
+
+![](move_003a.png)
