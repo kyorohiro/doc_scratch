@@ -9,6 +9,7 @@
 ![](match3_001a.png)
 
 
+#### Gigaのペンの色を赤にする
 
 
 ![](match3_002a.png)
