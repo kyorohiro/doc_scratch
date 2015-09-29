@@ -28,7 +28,7 @@
   * [勝ち負けを判定する](pong/win_lose/README.md)
   * [打つ向きを変える](pong/direction/README.md)
   * [完成!!](pong/goal/README.md)
-* [Dojo:インクランナー](ink_runner/README.md) <難易度 下上>
+* [Dojo:InkRunner](ink_runner/README.md) <難易度 下上>
   * [プロジェクトを作る](ink_runner/create_project/README.md)
   * [xxxって何だろう?](ink_runner/what_is_inkrunner/README.md)
   * [右に移動する](ink_runner/move_character/README.md)
