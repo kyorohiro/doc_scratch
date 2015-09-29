@@ -12,3 +12,5 @@
 
 
 #### 確認してみよう
+
+https://scratch.mit.edu/projects/79028510/
