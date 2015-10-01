@@ -19,7 +19,7 @@
 
 
 
-#### Scratchで再現
+#### Scratchで再現してみよう
 
 https://scratch.mit.edu/projects/79439640/
 
