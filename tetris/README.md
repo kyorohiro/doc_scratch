@@ -33,8 +33,6 @@ Spaceキーを押すと、Tetriminoが回転します。
 
 #### REF
 
-
-
 https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9
 
 https://en.wikipedia.org/wiki/Tetris
