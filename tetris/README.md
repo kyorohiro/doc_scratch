@@ -25,6 +25,10 @@ https://scratch.mit.edu/projects/79439640/
 
 ![](tetris_scratch.png)
 
+左キーを押すと、Tetriminoが左に移動します。
+右キーを押すと、Tetriminoが右に移動します。
+下キーを押すと、Tetriminoが下に移動します。
+Spaceキーを押すと、Tetriminoが回転します。
 
 
 #### REF
