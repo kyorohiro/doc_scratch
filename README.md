@@ -4,6 +4,8 @@
 本書では、Scratchを利用して、様々なゲームを作成していきます。
 世界初のビデオゲームである「Tennise for two」、世界初のシューティングゲームである「Spacewar!」。アーケードでビデオゲームの地位を確立した「Pong」などのチュートリアルが収録されています。
 
+### LICENSES
+http://creativecommons.org/licenses/by/4.0/
 
 ### ゴール
 
