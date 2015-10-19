@@ -31,7 +31,7 @@
 * [Tiny TETRIS](tetris/README.md) <難易度 上上>
   * [プロジェクトを作る](tetris/create_project/README.md)
   * [ネコを削除する](tetris/remove_neko/README.md)
-  * [ボードを作成する]
+  * [ボードを作成する](tetris/create_project/README.md)
 * [Dojo:InkRunner](ink_runner/README.md) <難易度 下上>
   * [プロジェクトを作る](ink_runner/create_project/README.md)
   * [xxxって何だろう?](ink_runner/what_is_inkrunner/README.md)
