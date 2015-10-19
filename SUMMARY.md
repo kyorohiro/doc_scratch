@@ -32,6 +32,7 @@
   * [プロジェクトを作る](tetris/create_project/README.md)
   * [ネコを削除する](tetris/remove_neko/README.md)
   * [フィールドを作成する](tetris/create_board/README.md)
+  * [フィールドの状態を記述する]
 * [Dojo:InkRunner](ink_runner/README.md) <難易度 下上>
   * [プロジェクトを作る](ink_runner/create_project/README.md)
   * [xxxって何だろう?](ink_runner/what_is_inkrunner/README.md)
