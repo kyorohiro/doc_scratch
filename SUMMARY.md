@@ -37,7 +37,7 @@
   * [テトロミノの種類を増やす](tetris/create_tetriminos/README.md)
   * [テトロミノを落下させる](tetris/fall_tetromino/README.md)
   * [テトロミノを積む](tetris/collision/README.md)
-  * [左右に]
+  * [左右に移動する](tetris/move_left/README.md)
 * [Dojo:InkRunner](ink_runner/README.md) <難易度 下上>
   * [プロジェクトを作る](ink_runner/create_project/README.md)
   * [xxxって何だろう?](ink_runner/what_is_inkrunner/README.md)
