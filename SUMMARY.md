@@ -39,6 +39,7 @@
   * [テトロミノを積む](tetris/collision/README.md)
   * [左右に移動する](tetris/move_left/README.md)
   * [回転させる](tetris/rotate_right/README.md)
+  * [クリアする](tetris/clear/README.md)
 * [Dojo:InkRunner](ink_runner/README.md) <難易度 下上>
   * [プロジェクトを作る](ink_runner/create_project/README.md)
   * [xxxって何だろう?](ink_runner/what_is_inkrunner/README.md)
