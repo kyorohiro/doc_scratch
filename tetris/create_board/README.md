@@ -45,4 +45,8 @@ https://scratch.mit.edu/projects/79809006/
 https://scratch.mit.edu/projects/79809006/
 ![](test.png)
 
+右上の旗をクリックすると、フィールドが表示されれば成功です。
+ドミノの色は今は気にしなくても良いです。
+
+
 
