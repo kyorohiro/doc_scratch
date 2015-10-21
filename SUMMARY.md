@@ -33,6 +33,7 @@
   * [ネコを削除する](tetris/remove_neko/README.md)
   * [フィールドを作成する](tetris/create_board/README.md)
   * [フィールドの状態を記述する](tetris/create_board_state/README.md)
+  * [フィールドに枠を表示する](tetris/create_frame/README.md)
   * [テトロミノを表示する](tetris/create_tetromino/README.md)
   * [テトロミノの種類を増やす](tetris/create_tetriminos/README.md)
   * [テトロミノを落下させる](tetris/fall_tetromino/README.md)
