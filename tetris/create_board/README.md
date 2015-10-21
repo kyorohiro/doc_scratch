@@ -34,5 +34,7 @@ https://scratch.mit.edu/projects/79809006/
 ※ 　ブロックを作成するときは、「画面を再描画せずに実行する」にチェックを入れる。
 ![](block_option.png)
 
+※ 
+
 
 
