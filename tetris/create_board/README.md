@@ -1,5 +1,7 @@
 # フィールドを作成する
 
+https://scratch.mit.edu/projects/79809006/
+
 ![](board.png)
 
 ゲーム画面を作成します。テトリスのゲームフィールドは四角形の集まりです。
@@ -7,7 +9,6 @@
 
 
 
-https://scratch.mit.edu/projects/79809006/
 
 ![](b001.png)
 
