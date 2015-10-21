@@ -42,5 +42,7 @@ https://scratch.mit.edu/projects/79809006/
 
 #### 確認してみよう
 
+https://scratch.mit.edu/projects/79809006/
+![](test.png)
 
 
