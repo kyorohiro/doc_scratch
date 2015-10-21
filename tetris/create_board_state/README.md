@@ -18,9 +18,11 @@ https://scratch.mit.edu/projects/83255528
 ![](script_get_state_value.png)
 
 ### 記録した状態に応じて、色を変える。
-![](script_main.png)
+
 ![](script_paint_domino.png)
 
 
 
 ### 確認する
+
+![](script_main.png)
