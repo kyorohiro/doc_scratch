@@ -40,7 +40,7 @@ https://scratch.mit.edu/projects/79809006/
 
 ![](data_option.png)
 
-#### 確認してみよう
+## 確認してみよう
 
 https://scratch.mit.edu/projects/79809006/
 ![](test.png)
