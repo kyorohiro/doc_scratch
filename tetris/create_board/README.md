@@ -24,6 +24,7 @@ https://scratch.mit.edu/projects/79809006/
 
 #### [2] スクリプトを追加する
 ![](b002.png)
+##### [2-1] スクリプトタブをタップする。
 
 
 ![](script.png)
