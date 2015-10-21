@@ -25,6 +25,7 @@ https://scratch.mit.edu/projects/83255528
 
 ### 確認する
 
-![](script_main.png)
-
 ![](test.png)
+
+
+![](script_main.png)
