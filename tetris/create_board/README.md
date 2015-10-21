@@ -36,7 +36,7 @@ https://scratch.mit.edu/projects/79809006/
 ![](block_option.png)
 
 
-※  変数を作るときは、"x"と"y" のみ、「このスプライトのみ」にチェックを入れる
+※  変数を作るときは、"x"と"y" のみ、「このスプライトのみ」にチェックを入れること
 
 ![](data_option.png)
 
