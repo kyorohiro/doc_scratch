@@ -2,7 +2,7 @@
 
 https://scratch.mit.edu/projects/84080228/
 
-#### A
+#### 衝突判定のスクリプト
 ![](s_c.png)
 
 #### 確認する
