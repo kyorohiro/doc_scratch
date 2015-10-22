@@ -36,7 +36,7 @@
   * [フィールドに枠を表示する](tetris/create_frame/README.md)
   * [テトロミノを表示する](tetris/create_tetromino/README.md)
   * [テトロミノの種類を増やす](tetris/create_tetriminos/README.md)
-  * [テトロミノを積む](tetris/collision/README.md)
+  * [テトロミノの衝突判定](tetris/collision/README.md)
   * [テトロミノを落下させる](tetris/fall_tetromino/README.md)
   * [左右に移動する](tetris/move_left/README.md)
   * [回転させる](tetris/rotate_right/README.md)
