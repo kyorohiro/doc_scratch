@@ -39,9 +39,9 @@
   * [テトロミノの衝突判定](tetris/collision/README.md)
   * [下に移動する](tetris/down/README.md)
   * [左右に移動する](tetris/move_left/README.md)
-  * [テトロミノを落下させる](tetris/fall_tetromino/README.md)
   * [回転させる](tetris/rotate_right/README.md)
   * [クリアする](tetris/clear/README.md)
+  * [テトロミノを落下させる](tetris/fall_tetromino/README.md)
   * [完成!!](tetris/goal/README.md)
 * [Dojo:InkRunner](ink_runner/README.md) <難易度 下上>
   * [プロジェクトを作る](ink_runner/create_project/README.md)
