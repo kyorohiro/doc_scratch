@@ -9,5 +9,6 @@ https://scratch.mit.edu/projects/83259480/
 ![](s_t_v.png)
 
 ### 確認する
+https://scratch.mit.edu/projects/83259480/
 
 ![](s_t_m.png)
