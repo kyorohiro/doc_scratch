@@ -13,9 +13,14 @@ https://scratch.mit.edu/projects/83795354/
 ![](script_create_main.png)
 
 
-#### 確認してみる
+#### (3) 確認してみる
 
 https://scratch.mit.edu/projects/83795354/
 
 ![](test.png)
+
+
+###### (3-1) 右上(みぎうえ)の緑色(みどりいろ)の旗(はた)をクリックする。
+
+###### (3-2) フィールドに枠が表示されれば成功です
 
