@@ -3,6 +3,7 @@
 
 https://scratch.mit.edu/projects/84308056/
 
+![](board_2.png)
 
 ### スクリプト
 
