@@ -2,6 +2,7 @@
 
 https://scratch.mit.edu/projects/84217246/
 
+![](board_4.png)
 
 ### (1) 指定した列がクリアできるか確認
 
