@@ -5,6 +5,8 @@ https://scratch.mit.edu/projects/84308056/
 
 ![](board_2.png)
 
+自由落下の機能を追加します。
+
 ### スクリプト
 
 ![](s_01.png)
