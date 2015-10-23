@@ -11,6 +11,11 @@ https://scratch.mit.edu/projects/84211804/
 
 ![](s_01.png)
 
+90度回転するには、
+```
+y = -x
+x = y;
+```
 ### (2) Spaceキーを押すと回転する
 ![](s_02.png)
 
