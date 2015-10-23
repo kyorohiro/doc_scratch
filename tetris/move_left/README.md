@@ -2,6 +2,8 @@
 
 https://scratch.mit.edu/projects/84206260/
 
+![](board_2.png)
+
 ### スクリプトを書く
 
 ![](s_01.png)
