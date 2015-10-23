@@ -40,6 +40,7 @@ https://scratch.mit.edu/projects/83255528
 
 
 ### (4) 確認する
+フィールドに値を設定できるようになったか確認してみしょう。
 
 https://scratch.mit.edu/projects/83255528
 
