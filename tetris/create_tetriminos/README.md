@@ -4,6 +4,8 @@ https://scratch.mit.edu/projects/84070026/
 
 ![](tetrimino.png)
 
+他の6個のテトロミノを表示してみましょう。
+
 
 ### (1) スクリプトを追加
 
