@@ -13,17 +13,17 @@ https://scratch.mit.edu/projects/83255528
 ### (1) Listにフィールドの状態を記録する
 ![](script_create_state.png)
 
-### Listから値を取得する
+### (2) Listから値を取得する
 ![](script_get_state_id.png)
 ![](script_get_state_value.png)
 
-### 記録した状態に応じて、色を変える。
+### (3) 記録した状態に応じて、色を変える。
 
 ![](script_paint_domino.png)
 
 
 
-### 確認する
+### (4) 確認する
 
 https://scratch.mit.edu/projects/83255528
 
