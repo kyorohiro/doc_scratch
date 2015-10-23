@@ -2,6 +2,7 @@
 
 https://scratch.mit.edu/projects/83795354/
 
+![](board_2.png)
 何もないフィールドは味気がないので、次は枠を表示してみましょう。
 
 
