@@ -2,6 +2,7 @@
 
 https://scratch.mit.edu/projects/84080228/
 
+![](board_2.png)
 テトロミノの衝突判定機能を作りましょう。
 
 #### 衝突判定のスクリプト
