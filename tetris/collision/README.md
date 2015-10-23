@@ -10,10 +10,13 @@ https://scratch.mit.edu/projects/84080228/
 ![](s_c.png)
 
 #### (2) 確認する
+
 ![](test.png)
 
 
 ###### (2-1) スクリプトを追加する
+
+https://scratch.mit.edu/projects/84080228/
 
 ![](s_m.png)
 
