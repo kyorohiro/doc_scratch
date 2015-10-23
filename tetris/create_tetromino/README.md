@@ -2,7 +2,7 @@
 
 https://scratch.mit.edu/projects/83259480/
 
-
+![](tetrimino.png)
 ### テトロミノを表示する
 
 ![](s_t.png)
