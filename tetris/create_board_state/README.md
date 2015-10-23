@@ -19,6 +19,9 @@ https://scratch.mit.edu/projects/83255528
 ここでは、「空」を指定しています。
 
 ### (2) Listから値を取得する
+フィールドの状態をXY座標を指定して設定できるようにします。
+
+
 ![](script_get_state_id.png)
 
 ![](script_get_state_value.png)
