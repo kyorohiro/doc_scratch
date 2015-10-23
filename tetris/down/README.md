@@ -2,6 +2,7 @@
 
 https://scratch.mit.edu/projects/84190998/
 
+![](board_2.png)
 
 
 ### Script
