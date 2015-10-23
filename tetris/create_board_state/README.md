@@ -33,6 +33,8 @@ https://scratch.mit.edu/projects/83255528
 
 ### (3) 記録した状態に応じて、色を変える。
 
+フィールドの状態に応じて四角形の色を変更できるようにします。
+
 ![](script_paint_domino.png)
 
 
