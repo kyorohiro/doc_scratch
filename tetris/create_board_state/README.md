@@ -20,7 +20,11 @@ https://scratch.mit.edu/projects/83255528
 
 ### (2) Listから値を取得する
 ![](script_get_state_id.png)
+
 ![](script_get_state_value.png)
+
+![](script_set_state_value.png)
+
 
 
 ### (3) 記録した状態に応じて、色を変える。
