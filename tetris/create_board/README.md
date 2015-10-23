@@ -57,7 +57,9 @@ https://scratch.mit.edu/projects/79809006/
 
   
    .
-  `.
+   
+   .
+  
    .
 
 ### (3)確認してみよう
