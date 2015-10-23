@@ -22,6 +22,7 @@ https://scratch.mit.edu/projects/83255528
 ![](script_get_state_id.png)
 ![](script_get_state_value.png)
 
+
 ### (3) 記録した状態に応じて、色を変える。
 
 ![](script_paint_domino.png)
