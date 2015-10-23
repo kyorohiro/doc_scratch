@@ -3,6 +3,9 @@
 https://scratch.mit.edu/projects/84211804/
 
 ![](board_2.png)
+
+次はテトロミノを回転させてみましょう。
+
 ### スクリプトを書く
 
 ![](s_01.png)
