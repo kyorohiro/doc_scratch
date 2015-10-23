@@ -7,12 +7,12 @@ https://scratch.mit.edu/projects/83795354/
 何もないフィールドは味気がないので、次は枠を表示してみましょう。
 
 
-#### 枠を追加するスクリプト
+#### (1) 枠を追加するスクリプト
 
 ![](script_create_frame.png)
 
 
-#### 枠を書いてみる
+#### (2) 枠を書いてみる
 
 ![](script_create_main.png)
 
