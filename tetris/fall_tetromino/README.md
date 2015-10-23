@@ -14,6 +14,8 @@ https://scratch.mit.edu/projects/84308056/
 
 ### (2) 確認する
 
+https://scratch.mit.edu/projects/84308056/
+
 ![](test.png)
 
 ###### (2-1) 右上(みぎうえ)の緑色(みどりいろ)の旗(はた)をクリックする。
