@@ -4,6 +4,9 @@ https://scratch.mit.edu/projects/84190998/
 
 ![](board_2.png)
 
+下に移動する機能を追加します。他のテトロミノや枠に衝突すると、
+新しいテトロミノが上から降ってきます。
+
 
 ### Script
 
