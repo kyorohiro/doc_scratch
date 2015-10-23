@@ -4,6 +4,9 @@ https://scratch.mit.edu/projects/84206260/
 
 ![](board_2.png)
 
+次は左右に移動する機能を追加してみましょう。
+
+
 ### スクリプトを書く
 
 ![](s_01.png)
