@@ -1,3 +1,5 @@
+![](cover.jpg)
+
 # About
 
 ### 内容
