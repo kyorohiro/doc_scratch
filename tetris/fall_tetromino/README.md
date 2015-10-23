@@ -2,3 +2,7 @@
 
 
 https://scratch.mit.edu/projects/84308056/
+
+
+### スクリプト
+
