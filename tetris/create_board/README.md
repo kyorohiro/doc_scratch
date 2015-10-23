@@ -56,9 +56,9 @@ https://scratch.mit.edu/projects/79809006/
 ![](data_option.png)
 
   
-  
-  
-   
+   .
+  `.
+   .
 
 ### (3)確認してみよう
 
