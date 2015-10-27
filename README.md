@@ -7,9 +7,7 @@
 世界初のビデオゲームである「Tennise for two」、世界初のシューティングゲームである「Spacewar!」。アーケードでビデオゲームの地位を確立した「Pong」などのチュートリアルが収録されています。
 
 ### ことはじめ
-
  本文書は、CoderDojo八王子にて進行を務めるにあたり、Kyorohiroが学習した事をまとめたものです。
- 
 
 ### LICENSES
 http://creativecommons.org/licenses/by/4.0/
