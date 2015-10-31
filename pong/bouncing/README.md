@@ -68,6 +68,7 @@ https://scratch.mit.edu/projects/78430612/
 <br>
 
 ### (6) Good!
+良(よ)くできました。次(つぎ)のステップに進(すすみ)みましょう!!
 
 ![](../good.png)
 
