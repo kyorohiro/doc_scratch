@@ -147,33 +147,3 @@ http://creativecommons.org/licenses/by/4.0/
   * [おまけ: Timer(1)](ink_runner/bonus/README.md)
   * [おまけ: Timer(2)](ink_runner/timer_2/README.md)
   * [おまけ: 判定](ink_runner/judgement/README.md)
-* [基礎鍛錬のゴール](test/b001/About.md)
-  * [基礎鍛錬(きそたんれん) 移動の型]
-    * [数(かず) と 数字(すうじ)]test/b001/Number.md
-    * [大(おお)きな数(かず)]
-    * [足し算(たしざん)]
-    * [引き算(ひきざん)]
-    * [開発画面を表示する](test/b001/CreateProject.md)
-    * [右(みぎ)に移動(いどう)](test/b001/MoveRight.md)
-    * [左(ひだり)に移動(いどう)](test/b001/MoveLeft.md)
-    * [上(うえ)に移動(いどう)](test/b001/MoveUp.md)
-    * [下(した)に移動(いどう)](test/b001/MoveDown.md)
-    * 座興って何だろう
-      * [座標って何だろう:X座標が左右で、Y座標が上下](test/b001/GridChart.md)
-      * [座標って何だろう:足し算で上、右に移動、引き算で下、左に移動](test/b001/GridChart02.md)
-      * [座標って何だろう:演習問題](test/b001/GridChart03.md)
-    * アニメーションをつける
-      * [歩く](test/b001/Walk.md)
-  * [基礎鍛錬(きそたんれん) 動作の型]
-    * [魔法を放つ](test/b002/Magic.md)
-    * [跳ねる](test/b002/Jump.md)
-    * [加速度について]
-  * [基礎鍛錬(きそたんれん) モンスター]
-    * [ドラゴンを召喚](test/b003/Monster.md)
-  * [基礎鍛錬(きそたんれん)ダメージ]
-    * [攻撃を与える](test/b004/MonsterDamage.md)
-  * [基礎鍛錬(きそたんれん)シーン]
-    * [シーン](test/b005/Scene.md)
-  * [基礎鍛錬(きそたんれん)音楽]
-    * [バックグラウンドミュージック](test/b006/Music.md)  
-
