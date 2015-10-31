@@ -2,6 +2,9 @@
 
 https://scratch.mit.edu/projects/78444962/
 
+![](about.png)
+
+
 #### (1) ボールSpriteを追加(ついか)します
 ![](ball_001a.png)
 ##### (1-1) 左下(ひだりした)の鉛筆(えんぴつ)アイコンとクリック
