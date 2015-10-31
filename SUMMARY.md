@@ -45,7 +45,7 @@
   * [クリアする](tetris/clear/README.md)
   * [テトロミノを落下させる](tetris/fall_tetromino/README.md)
   * [完成!!](tetris/goal/README.md)
-* [Dojo:InkRunner<難易度 下上>](ink_runner/README.md) 
+* [Dojo:InkRunner<難易度下上>](ink_runner/README.md) 
   * [プロジェクトを作る](ink_runner/create_project/README.md)
   * [xxxって何だろう?](ink_runner/what_is_inkrunner/README.md)
   * [右に移動する](ink_runner/move_character/README.md)
