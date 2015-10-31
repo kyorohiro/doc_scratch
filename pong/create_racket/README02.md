@@ -20,6 +20,10 @@ https://scratch.mit.edu/projects/78407350/
 
 ![](racket_script_002a.png)
 
+<br>
+<br>
+<br>
+
 
 #### (5) 確認してみよう
 ![](create_racket_005a.png)
