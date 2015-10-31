@@ -4,6 +4,7 @@ https://scratch.mit.edu/projects/78444962/
 
 ![](about.png)
 
+次(つぎ)は、ボールを追加(ついか)してみましょう。
 
 #### (1) ボールSpriteを追加(ついか)します
 ![](ball_001a.png)
