@@ -37,11 +37,6 @@ https://scratch.mit.edu/projects/78407350/
 <br>
 <br>
 <br>
-...
-
-...
-
-..
 
 #### Good!!
 
