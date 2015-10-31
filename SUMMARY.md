@@ -25,6 +25,7 @@
   * [ラケットを上下に移動させる](pong/create_racket/README02.md)
   * [コースを追加](pong/create_cource/README.md)
   * [ボールを追加](pong/create_ball/README.md)
+  * [ボールを移動させる](pong/create_ball/README2.md)
   * [ボールが跳ね返る機能をついか](pong/bouncing/README.md)
   * [勝ち負けを判定する](pong/win_lose/README.md)
   * [打つ向きを変える](pong/direction/README.md)
