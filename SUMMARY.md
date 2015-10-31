@@ -22,6 +22,7 @@
 * [Pong](pong/README.md) <難易度 中>
   * [プロジェクトを作る](pong/create_project/README.md)
   * [ラケットを作る](pong/create_racket/README.md)
+  * [ラケットを上下に移動させる](pong/create_racket/README02.md)
   * [コースを追加](pong/create_cource/README.md)
   * [ボールを追加](pong/create_ball/README.md)
   * [ボールが跳ね返る機能をついか](pong/bouncing/README.md)
