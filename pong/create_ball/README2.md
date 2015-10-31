@@ -2,6 +2,7 @@
 
 https://scratch.mit.edu/projects/78444962/
 
+![](about2.png)
 
 
 #### (2) ボールが右(みぎ)に移動(いどう)するスクリプトを追加(ついか)
