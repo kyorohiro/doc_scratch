@@ -6,6 +6,9 @@ https://scratch.mit.edu/projects/78444962/
 
 次(つぎ)は、ボールを追加(ついか)してみましょう。
 
+<br>
+<br>
+<br>
 
 
 #### (1) ボールSpriteを追加(ついか)します
