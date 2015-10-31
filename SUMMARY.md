@@ -10,7 +10,7 @@
   * [ボールを打つ](tennis_of_two/shot_ball/README.md)
   * [Coatを作成する](tennis_of_two/create_court/README.md)
   * [完成](tennis_of_two/goal/README.md)
-* [Spacewar!](spacewar/README.md) <難易度 上下>
+* [Spacewar!<難易度 上下>](spacewar/README.md) 
   * [プロジェクトを作成する](spacewar/create_project/README.md)
   * [太陽を作る](spacewar/create_sun/README.md)
   * [ロケットと重力を作る](spacewar/create_rocket/README.md)
