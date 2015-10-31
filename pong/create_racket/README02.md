@@ -1,7 +1,6 @@
-# ラケットを作(つく)る
-https://scratch.mit.edu/projects/78407350/
+# ラケットを上下に移動できるようにする
 
-では、Pongを作っていきます。
+https://scratch.mit.edu/projects/78407350/
 
 
 
