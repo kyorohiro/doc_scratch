@@ -39,7 +39,7 @@ https://scratch.mit.edu/projects/78407350/
 <br>
 
 ### (3)確認する!!
-
+![](create_racket_002c.png)
 
 ### Good!!
 
