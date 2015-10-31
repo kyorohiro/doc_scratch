@@ -45,6 +45,7 @@ https://scratch.mit.edu/projects/78407350/
 
 
 ### Good!!
+良(よ)くできました。次(つぎ)のステップに進(すすみ)みましょう!!
 
 ![](../good.png)
 
