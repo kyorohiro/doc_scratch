@@ -43,6 +43,10 @@ https://scratch.mit.edu/projects/78437120/#player
 
 **※ 「青の得点」変数(へんすう)を作(つく)るときは、「すべてのSpriteよう」にチェックを入れてください**
 
+<br>
+<br>
+<br>
+
 #### (4) 確認(かくにん)しよう
 https://scratch.mit.edu/projects/78437120/#player
 
