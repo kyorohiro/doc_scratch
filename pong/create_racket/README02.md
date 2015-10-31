@@ -51,6 +51,8 @@ https://scratch.mit.edu/projects/78407350/
 
 ### (4) Good !!
 
+![](../good.png)
+
 
 
 #### (6)
