@@ -20,8 +20,7 @@
 
 
 ##### (1-2) 確認(かくにん)してみよう
-http
-s://scratch.mit.edu/projects/78420962/
+https://scratch.mit.edu/projects/78420962/
 
 ![](bouncing_scratch_001.png)
 
