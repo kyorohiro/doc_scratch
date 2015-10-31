@@ -4,8 +4,7 @@ https://scratch.mit.edu/projects/78407350/
 では、Pongを作っていきます。
 
 
-
-
+![](racket.png)
 
 まずは、この上下に動く赤色と青色のラケットを作成してみましょう。
 
