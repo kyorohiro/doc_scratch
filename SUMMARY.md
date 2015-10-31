@@ -19,7 +19,7 @@
   * [機雷発射機能を作る](spacewar/create_fire/README.md)
   * [的を作る](spacewar/createTarget/README.md)
   * [完成](spacewar/goal/README.md)
-* [Pong](pong/README.md) <難易度 中>
+* [Pong <難易度 中>](pong/README.md)
   * [プロジェクトを作る](pong/create_project/README.md)
   * [ラケットを作る](pong/create_racket/README.md)
   * [ラケットを上下に移動させる](pong/create_racket/README02.md)
