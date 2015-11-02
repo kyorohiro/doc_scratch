@@ -43,3 +43,4 @@ Tennis for Two は、ボールを打(う)ち合(あ)うゲーム。
 
 
 ### (3) Good!
+![](../good.png)
