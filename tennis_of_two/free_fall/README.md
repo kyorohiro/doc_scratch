@@ -18,6 +18,10 @@ https://scratch.mit.edu/projects/78216824/
 
 **※ 「Yの速度(そくど)」変数を作るときは、「このSpriteのみ」にチェックを入れてください**
 
+<br>
+<br>
+<br>
+
 #### (2) 確認してみよう
 https://scratch.mit.edu/projects/78216824/
 
@@ -25,6 +29,10 @@ https://scratch.mit.edu/projects/78216824/
 
 ##### (2-1) 右上(むぎうえ)の緑色(みどりいろ)の旗(はた)をクリックしてください。ボールが落下します。
 
+
+<br>
+<br>
+<br>
 
 
 # 補足:自由落下
