@@ -44,6 +44,19 @@ https://scratch.mit.edu/projects/78270956/
 <br>
 <br>
 <br>
+
+
+### (3) Good!
+
+![](../good.png)
+
+良(よ)くできました。次(つぎ)のステップに進(すすみ)みましょう!!
+
+
+
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
