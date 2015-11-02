@@ -6,7 +6,7 @@ https://scratch.mit.edu/projects/78216824/
 自由落下(じゆうらっか)のスクリプトを追加(ついか)してみましょう。
 
 
-#### (1) ボールにスクリプトを追加(ついか)する
+### (1) ボールにスクリプトを追加(ついか)する
 ![](free_fall_001a.png)
 
 ##### (1-1) 左下(ひだりした)のBallをクリックする
@@ -22,7 +22,7 @@ https://scratch.mit.edu/projects/78216824/
 <br>
 <br>
 
-#### (2) 確認してみよう
+### (2) 確認してみよう
 https://scratch.mit.edu/projects/78216824/
 
 ![](createball_scratch_001a.png)
