@@ -90,7 +90,7 @@ http://creativecommons.org/licenses/by/4.0/
 
 
 ### Table 
-* [Tennis Of Two <難易度 中上>](tennis_of_two/README.md)
+* [Tennis For Two <難易度 中上>](tennis_of_two/README.md)
   * [プロジェクトを作る](tennis_of_two/create_project/README.md)
   * [ボールを追加する](tennis_of_two/create_ball/README.md)
   * [自由落下](tennis_of_two/free_fall/README.md)
