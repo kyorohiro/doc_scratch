@@ -3,6 +3,9 @@ https://scratch.mit.edu/projects/78314736/
 
 ![](about_s.png)
 
+コートを作成(さくせい)します。
+
+<br>
 <br>
 <br>
 
