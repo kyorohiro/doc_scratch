@@ -1,6 +1,8 @@
 # Coatを作成(さくせい)する
 https://scratch.mit.edu/projects/78314736/
 
+![](about_s.png)
+
 <br>
 <br>
 
