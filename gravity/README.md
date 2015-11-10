@@ -5,6 +5,6 @@
 
 
 
-![300,400](about.png)
+![](about.png)
 
 https://scratch.mit.edu/projects/84535698/
