@@ -60,6 +60,8 @@
   * [おまけ: 判定](ink_runner/judgement/README.md)
 * [Practice:Gravity<難易度 下上>](gravirt/README.md)
   * [プロジェクトを作ろう](gravity/create_project/README.md)
+  * [太陽を作る]
+  * a
 * [基礎鍛錬のゴール](test/b001/About.md)
   * [基礎鍛錬(きそたんれん) 移動の型]
     * [数(かず) と 数字(すうじ)]test/b001/Number.md
