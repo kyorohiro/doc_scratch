@@ -59,7 +59,7 @@
   * [おまけ: Timer(2)](ink_runner/timer_2/README.md)
   * [おまけ: 判定](ink_runner/judgement/README.md)
 * [Gravity<難易度 下上>]
-  * [] 
+  * [プロジェクトを作ろう] 
 * [基礎鍛錬のゴール](test/b001/About.md)
   * [基礎鍛錬(きそたんれん) 移動の型]
     * [数(かず) と 数字(すうじ)]test/b001/Number.md
