@@ -60,7 +60,7 @@
   * [おまけ: 判定](ink_runner/judgement/README.md)
 * [Practice:Gravity<難易度 下上>](gravirt/README.md)
   * [プロジェクトを作ろう](gravity/create_project/README.md)
-  * [太陽を作る]
+  * [太陽を作る](gravity/createSun/README.md)
   * [速度に応じて移動する]
   * [引力に応じて移動する]
   * [完成!!]
