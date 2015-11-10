@@ -61,6 +61,8 @@
 * [Practice:Gravity<難易度 下上>](gravirt/README.md)
   * [プロジェクトを作ろう](gravity/create_project/README.md)
   * [太陽を作る](gravity/createSun/README.md)
+  * [aaa]
+  * [bbb]
   * [速度に応じて移動する]
   * [引力に応じて移動する]
   * [完成!!]
