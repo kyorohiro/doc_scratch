@@ -27,5 +27,6 @@ https://scratch.mit.edu/projects/87343886/
 
 ### (3) 確認する
 
-![](con1.png)
+![](con2.png)
 
+##### (3-1) Sprite1が通った後に線が引かれること。
