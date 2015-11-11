@@ -1,6 +1,6 @@
 # 地球を中央に配置する
 
-![](about2,png)
+![](about002.png)
 
 <br>
 <br>
