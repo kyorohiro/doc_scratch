@@ -32,6 +32,8 @@ https://scratch.mit.edu/projects/87341609/
 
 ### (3) 確認(かくにん)する
 
+https://scratch.mit.edu/projects/87341609/
+
 ![](con1.png)
 
 ##### (3-1) 右上(みぎうえ)の旗(はた)をクリックすると、地球(ちきゅう)の周(まわ)りを月(つき)が周(まわ)ること
