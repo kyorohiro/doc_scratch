@@ -147,3 +147,15 @@ http://creativecommons.org/licenses/by/4.0/
   * [おまけ: Timer(1)](ink_runner/bonus/README.md)
   * [おまけ: Timer(2)](ink_runner/timer_2/README.md)
   * [おまけ: 判定](ink_runner/judgement/README.md)
+* [Practice:Gravity<難易度 下中>](gravity/README.md)
+  * [プロジェクトを作ろう](gravity/create_project/README.md)
+  * [地球を作る](gravity/createSun/README.md)
+  * [地球の位置とサイズを調整する](gravity/createSun/README2.md)
+  * [月の大きさを調整する](gravity/createSun/README3.md)
+  * [速度に応じて移動する](gravity/create_speed/README.md)
+  * [引力に応じて移動する](gravity/createAttraction/README.md)
+  * [軌道を記録する](gravity/createAttraction/README2.md)
+  * [完成!!](gravity/goal/README.md)
+  * [おまけ:向きを計算してみる]
+  * [おまけ:距離を計算してみる]
+ 
