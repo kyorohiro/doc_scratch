@@ -61,7 +61,7 @@
 * [Practice:Gravity<難易度 下中>](gravity/README.md)
   * [プロジェクトを作ろう](gravity/create_project/README.md)
   * [地球を作る](gravity/createSun/README.md)
-  * [太陽の位置とサイズを調整する](gravity/createSun/README2.md)
+  * [地球の位置とサイズを調整する](gravity/createSun/README2.md)
   * [月の大きさを調整する](gravity/createSun/README3.md)
   * [速度に応じて移動する](gravity/create_speed/README.md)
   * [引力に応じて移動する](gravity/createAttraction/README.md)
