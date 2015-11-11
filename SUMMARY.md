@@ -64,7 +64,7 @@
   * [太陽の位置とサイズを調整する](gravity/createSun/README2.md)
   * [月の大きさを調整する](gravity/createSun/README3.md)
   * [速度に応じて移動する](gravity/create_speed/README.md)
-  * [引力に応じて移動する]
+  * [引力に応じて移動する](gravity/createAttraction/README.md)
   * [完成!!]
   * [おまけ:向きを計算してみる]
   * [おまけ:距離を計算してみる]
