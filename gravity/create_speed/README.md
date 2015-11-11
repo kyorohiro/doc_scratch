@@ -35,5 +35,7 @@ https://scratch.mit.edu/projects/87340452/
 
 ![](con01.png)
 
+
+##### (3-1) 右上の旗をクリックすると、Sprite1が右に移動すること。
 <br>
 <br>
