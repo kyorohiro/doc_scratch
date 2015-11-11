@@ -30,3 +30,6 @@ https://scratch.mit.edu/projects/87343886/
 ![](con2.png)
 
 ##### (3-1) Sprite1が通った後に線が引かれること。
+
+<br>
+<br>
