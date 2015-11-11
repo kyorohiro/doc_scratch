@@ -26,6 +26,7 @@ https://scratch.mit.edu/projects/87343886/
 <br>
 
 ### (3) 確認(かくにん)する
+https://scratch.mit.edu/projects/87343886/
 
 ![](con2.png)
 
