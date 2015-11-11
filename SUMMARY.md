@@ -62,7 +62,7 @@
   * [プロジェクトを作ろう](gravity/create_project/README.md)
   * [太陽を作る](gravity/createSun/README.md)
   * [太陽の位置とサイズを調整する](gravity/createSun/README2.md)
-  * [bbb]
+  * [月の大きさを調整する](gravity/createSun/README3.md)
   * [速度に応じて移動する]
   * [引力に応じて移動する]
   * [完成!!]
