@@ -61,7 +61,7 @@
 * [Practice:Gravity<難易度 下上>](gravirt/README.md)
   * [プロジェクトを作ろう](gravity/create_project/README.md)
   * [太陽を作る](gravity/createSun/README.md)
-  * [太陽の位置とサイズを調整する]
+  * [太陽の位置とサイズを調整する](gravity/createSun/README2.md)
   * [bbb]
   * [速度に応じて移動する]
   * [引力に応じて移動する]
