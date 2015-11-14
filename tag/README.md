@@ -8,4 +8,4 @@
 
 https://scratch.mit.edu/projects/87798109/
 
-![](about.png)
+![](sample.png)
