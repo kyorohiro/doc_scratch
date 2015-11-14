@@ -12,7 +12,7 @@
 
 
 
-# 見本
+# 見本(みほん)
 
 https://scratch.mit.edu/projects/87798109/
 
