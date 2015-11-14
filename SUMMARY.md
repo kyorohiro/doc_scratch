@@ -75,7 +75,7 @@
   * [左に逃げる](tag/run_chara/README2.md)
   * [上下に逃げる](tag/run_chara/README3.md)
   * [鬼を作る](tag/oni/README.md)
-  * [相手を捕まえる]
+  * [鬼が移動する](tag/oni/README.md)
   * [捕まったら、罰を受ける]
   * [完成!!]
 * [基礎鍛錬のゴール](test/b001/About.md)
