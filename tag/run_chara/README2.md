@@ -24,7 +24,7 @@
 <br>
 
 ### (3) 確認する
-https://scratch.mit.edu/projects/84550290/
+https://scratch.mit.edu/projects/87777882/
 
 ![](con01.png)
 ##### (3-1) 右上の旗をクリックする
