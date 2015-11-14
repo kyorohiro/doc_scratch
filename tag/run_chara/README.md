@@ -37,6 +37,8 @@
 <br>
 <br>
 ### (4) Good!
+https://scratch.mit.edu/projects/84550290/
+
 ![](../good.png)
 
 よくできました。次(つぎ)のステップに進(すす)みましょう
