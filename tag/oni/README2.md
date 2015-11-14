@@ -23,6 +23,7 @@
 <br>
 <br>
 ### (2) 確認する
+https://scratch.mit.edu/projects/87785015/
 
 ![](con01.png)
 
