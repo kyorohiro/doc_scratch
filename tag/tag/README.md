@@ -27,6 +27,8 @@
 
 ### (4) Good!!
 
+https://scratch.mit.edu/projects/87788048/#player
+
 ![](../good.png)
 
 よくできました。次(つぎ)のステップに進(すす)みましょう。
