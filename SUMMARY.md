@@ -77,7 +77,7 @@
   * [鬼を作る](tag/oni/README.md)
   * [鬼が移動する](tag/oni/README2.md)
   * [捕まった時の動作](tag/tag/README.md)
-  * [完成!!]
+  * [完成!!](tag/goal/README.md)
 * [基礎鍛錬のゴール](test/b001/About.md)
   * [基礎鍛錬(きそたんれん) 移動の型]
     * [数(かず) と 数字(すうじ)]test/b001/Number.md
