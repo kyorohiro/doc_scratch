@@ -73,7 +73,7 @@
   * [プロジェクトを作ろう](tag/create_project/README.md)
   * [右に逃げる](tag/run_chara/README.md)
   * [左に逃げる](tag/run_chara/README2.md)
-  * [上下ににげる]
+  * [上下に逃げる](tag/run_chara/README3.md)
   * [鬼を作る]
   * [相手を捕まえる]
   * [捕まったら、罰を受ける]
