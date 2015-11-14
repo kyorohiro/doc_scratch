@@ -158,4 +158,13 @@ http://creativecommons.org/licenses/by/4.0/
   * [完成!!](gravity/goal/README.md)
   * [おまけ:向きを計算してみる]
   * [おまけ:距離を計算してみる]
- 
+* [Dojo:おにごっこ<難易度 下中>](tag/README.md)
+  * [プロジェクトを作ろう](tag/create_project/README.md)
+  * [右に逃げる](tag/run_chara/README.md)
+  * [左に逃げる](tag/run_chara/README2.md)
+  * [上下に逃げる](tag/run_chara/README3.md)
+  * [鬼を作る](tag/oni/README.md)
+  * [鬼が移動する](tag/oni/README2.md)
+  * [捕まった時の動作](tag/tag/README.md)
+  * [完成!!](tag/goal/README.md)
+  
