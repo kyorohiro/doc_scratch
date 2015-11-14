@@ -76,7 +76,7 @@
   * [上下に逃げる](tag/run_chara/README3.md)
   * [鬼を作る](tag/oni/README.md)
   * [鬼が移動する](tag/oni/README2.md)
-  * [捕まったら、罰を受ける]
+  * [捕まっ時の動作をきめる]
   * [完成!!]
 * [基礎鍛錬のゴール](test/b001/About.md)
   * [基礎鍛錬(きそたんれん) 移動の型]
