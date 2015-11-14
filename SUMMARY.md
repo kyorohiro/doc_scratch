@@ -74,7 +74,7 @@
   * [右に逃げる](tag/run_chara/README.md)
   * [左に逃げる](tag/run_chara/README2.md)
   * [上下に逃げる](tag/run_chara/README3.md)
-  * [鬼を作る]
+  * [鬼を作る](tag/oni/README.md)
   * [相手を捕まえる]
   * [捕まったら、罰を受ける]
   * [完成!!]
