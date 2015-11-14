@@ -72,8 +72,8 @@
 * [Dojo:おにごっこ<難易度 下中>](tag/README.md)
   * [プロジェクトを作ろう](tag/create_project/README.md)
   * [右に逃げる](tag/run_chara/README.md)
-  * [下に逃げる](tag/run_chara/README2.md)
-  * [左右ににげる]
+  * [左に逃げる](tag/run_chara/README2.md)
+  * [上下ににげる]
   * [鬼を作る]
   * [相手を捕まえる]
   * [捕まったら、罰を受ける]
