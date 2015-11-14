@@ -71,7 +71,7 @@
   * [おまけ:距離を計算してみる]
 * [Dojo:おにごっこ<難易度 下中>](tag/README.md)
   * [プロジェクトを作ろう](tag/create_project/README.md)
-  * [上に逃げられる] VB
+  * [上に逃げられる](tag/run_chara/README.md)
   * [下に逃げる]
   * [左右ににげる]
   * [鬼を作る]
