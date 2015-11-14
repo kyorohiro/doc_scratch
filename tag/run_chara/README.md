@@ -29,6 +29,8 @@
 <br>
 
 ### (3) 確認する
+https://scratch.mit.edu/projects/84550290/
+
 ![](con01.png)
 ##### (3-1) 右上の旗をクリックする
 ##### (3-2) 右キーを押すと右に移動すること
@@ -37,7 +39,6 @@
 <br>
 <br>
 ### (4) Good!
-https://scratch.mit.edu/projects/84550290/
 
 ![](../good.png)
 
