@@ -167,4 +167,4 @@ http://creativecommons.org/licenses/by/4.0/
   * [鬼が移動する](tag/oni/README2.md)
   * [捕まった時の動作](tag/tag/README.md)
   * [完成!!](tag/goal/README.md)
-  
+* [Practice:ポリゴン<難易度 中上>](polygon/README.md)
