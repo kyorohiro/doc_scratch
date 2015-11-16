@@ -80,6 +80,7 @@
   * [完成!!](tag/goal/README.md)
 * [Practice:ポリゴン<難易度 中上>](polygon/README.md)
   * [プロジェクトを作る](polygon/create_project/README.md) 
+  * [ネコを削除]
 * [基礎鍛錬のゴール](test/b001/About.md)
   * [基礎鍛錬(きそたんれん) 移動の型]
     * [数(かず) と 数字(すうじ)]test/b001/Number.md
