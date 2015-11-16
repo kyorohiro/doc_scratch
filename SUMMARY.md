@@ -81,7 +81,7 @@
 * [Practice:ポリゴン<難易度 中上>](polygon/README.md)
   * [プロジェクトを作る](polygon/create_project/README.md) 
   * [ネコの表示を小さくする](polygon/reduce_size/README.md)
-  * [三角形を描く]
+  * [三角形を描く](polygon/draw_polygon/README.md)
 * [基礎鍛錬のゴール](test/b001/About.md)
   * [基礎鍛錬(きそたんれん) 移動の型]
     * [数(かず) と 数字(すうじ)]test/b001/Number.md
