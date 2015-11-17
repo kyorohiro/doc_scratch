@@ -38,4 +38,31 @@ $$\left(x, y, z\right)$$の点に回転行列をかける事で、回転後の$$
 
 Matrixの掛け算を実装してみましょう。
 
+### 掛け算のルール
+
+$$ \left(
+\begin{array}{ccc}
+x_{next} \\
+y_{next} \\
+z_{next} \\
+1 \\
+\end{array}
+\right)
+=
+\left(\begin{array}{ccc}
+\\
+回転行列\\
+\\
+\end{array}
+\right)
+\left(
+\begin{array}{ccc}
+x \\
+y \\
+z \\
+1 \\
+\end{array}
+\right)
+$$
+
 
