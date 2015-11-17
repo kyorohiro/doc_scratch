@@ -170,3 +170,7 @@ http://creativecommons.org/licenses/by/4.0/
   * [捕まった時の動作](tag/tag/README.md)
   * [完成!!](tag/goal/README.md)
 * [Practice:ポリゴン<難易度 中上>](polygon/README.md)
+  * [プロジェクトを作る](polygon/create_project/README.md) 
+  * [ネコの表示を小さくする](polygon/reduce_size/README.md)
+  * [三角形を描く](polygon/draw_polygon/README.md)
+  * [Matrixを定義する](polygon/matrix/README.md)
