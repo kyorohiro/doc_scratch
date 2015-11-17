@@ -49,11 +49,13 @@ z_{next} \\
 \end{array}
 \right)
 =
-\left(\begin{array}{ccc}
-\\
-回転行列\\
-\\
-\end{array}
+\left(
+  \begin{array}{ccc}
+    a_{11} & a_{12} & a_{13} & a_{14}\\
+    a_{21} & a_{22} & a_{23} & a_{24}\\
+    a_{31} & a_{32} & a_{33} & a_{34}\\
+    a_{41} & a_{42} & a_{43} & a_{44}\\
+  \end{array}
 \right)
 \left(
 \begin{array}{ccc}
@@ -61,6 +63,15 @@ x \\
 y \\
 z \\
 1 \\
+\end{array}
+\right)
+=
+\left(
+\begin{array}{ccc}
+a_{11} \times x + a_{12} \times y + a_{13} \times z + a_{14} \times 1\\
+a_{21} \times x + a_{22} \times y + a_{23} \times z + a_{24} \times 1\\
+a_{31} \times x + a_{32} \times y + a_{33} \times z + a_{34} \times 1\\
+a_{41} \times x + a_{42} \times y + a_{43} \times z + a_{44} \times 1\\
 \end{array}
 \right)
 $$
