@@ -9,7 +9,7 @@
 # 掛け算と足し算
 
 $$
-\[
+
   A = \left(
     \begin{array}{ccc}
       a & b & c \\
@@ -17,5 +17,5 @@ $$
       g & h & i
     \end{array}
   \right)
-\]
+
 $$
