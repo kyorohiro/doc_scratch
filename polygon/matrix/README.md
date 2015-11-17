@@ -7,7 +7,7 @@
 
 <br>
 <br>
-### Matixとは数の集まり
+## (A) Matixとは数の集まり
 
 $$\left(
   \begin{array}{ccc}
@@ -37,6 +37,8 @@ $$\left(
 <br>
 <br>
 
-### これを、Scratchで表現してみましょう。
+## (B) これを、Scratchで表現してみましょう。
+### (2) Scripte画面を表示する
+
 
 
