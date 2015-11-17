@@ -85,6 +85,7 @@
   * [Matrixを定義する](polygon/matrix/README.md)
   * [Matrixの掛け算](polygon/product/README.md)
   * [Z軸に対して回転](polygon/rotateZ/README.md)
+  * [X軸に対して回転](polygon/rotateX/README.md)
   * [おまけ:法泉と裏面消去]
 * [基礎鍛錬のゴール](test/b001/About.md)
   * [基礎鍛錬(きそたんれん) 移動の型]
