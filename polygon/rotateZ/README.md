@@ -104,16 +104,17 @@ $$
 $$
 
 $$\\
-M_{11} = a_{11} \times b_{11} + a_{12} \times b_{21} \\
-M_{21} = a_{21} \times b_{11} + a_{22} \times b_{21} \\
-M_{31} = a_{31} \times b_{11} + a_{32} \times b_{21} \\
-M_{41} = a_{41} \times b_{11} + a_{42} \times b_{21} \\
+M_{11} = a_{11} \times \cos\theta + a_{12} \times \sin\theta \\
+M_{21} = a_{21} \times \cos\theta + a_{22} \times \sin\theta \\
+M_{31} = a_{31} \times \cos\theta + a_{32} \times \sin\theta \\
+M_{41} = a_{41} \times \cos\theta + a_{42} \times \sin\theta \\
 $$
+
 $$\\
-M_{12} = a_{11} \times b_{12} + a_{12} \times b_{22} \\
-M_{22} = a_{21} \times b_{12} + a_{22} \times b_{22} \\
-M_{32} = a_{31} \times b_{12} + a_{32} \times b_{22} \\
-M_{42} = a_{41} \times b_{12} + a_{42} \times b_{22} \\
+M_{12} = a_{11} \times -\sin\theta + a_{12} \times \cos\theta \\
+M_{22} = a_{21} \times -\sin\theta + a_{22} \times \cos\theta \\
+M_{32} = a_{31} \times -\sin\theta + a_{32} \times \cos\theta \\
+M_{42} = a_{41} \times -\sin\theta + a_{42} \times \cos\theta \\
 $$
 
 ## Scratchで実装してみよう
