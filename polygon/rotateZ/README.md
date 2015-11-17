@@ -123,29 +123,3 @@ $$
 <br>
 <br>
 <br>
-
-
-$$ \left(
-\begin{array}{ccc}
-x_{next} \\
-y_{next} \\
-z_{next} \\
-1 \\
-\end{array}
-\right)
-=
-\left(\begin{array}{ccc}
-\\
-回転行列\\
-\\
-\end{array}
-\right)
-\left(
-\begin{array}{ccc}
-x \\
-y \\
-z \\
-1 \\
-\end{array}
-\right)
-$$
