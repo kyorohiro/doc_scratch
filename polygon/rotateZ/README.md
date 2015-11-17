@@ -117,6 +117,8 @@ M_{32} = a_{31} \times -\sin\theta + a_{32} \times \cos\theta \\
 M_{42} = a_{41} \times -\sin\theta + a_{42} \times \cos\theta \\
 $$
 
+<br>
+<br>
 ## Scratchで実装してみよう
 
 
