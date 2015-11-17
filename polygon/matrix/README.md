@@ -8,7 +8,7 @@
 
 # 掛け算と足し算
 
-```:mathjax
+```mathjax
 \[
   \sum_{n=1}^\infty \frac{1}{n^2} = \frac{\pi^2}{6}
   \tag{3}
