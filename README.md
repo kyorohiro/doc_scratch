@@ -174,3 +174,4 @@ http://creativecommons.org/licenses/by/4.0/
   * [ネコの表示を小さくする](polygon/reduce_size/README.md)
   * [三角形を描く](polygon/draw_polygon/README.md)
   * [Matrixを定義する](polygon/matrix/README.md)
+  * [Matrixの掛け算](polygon/product/README.md)
