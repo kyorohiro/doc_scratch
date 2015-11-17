@@ -83,6 +83,7 @@
   * [ネコの表示を小さくする](polygon/reduce_size/README.md)
   * [三角形を描く](polygon/draw_polygon/README.md)
   * [Matrixを定義する](polygon/matrix/README.md)
+  * [Matrixの掛け算]
   * [おまけ:法泉と裏面消去]
 * [基礎鍛錬のゴール](test/b001/About.md)
   * [基礎鍛錬(きそたんれん) 移動の型]
