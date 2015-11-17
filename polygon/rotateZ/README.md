@@ -104,16 +104,16 @@ $$
 $$
 
 $$\\
-M_{11} = a_{11} \times b_{11} + a_{12} \times b_{21} + a_{13} \times b_{31} + a_{14} \times b_{41}\\
-M_{21} = a_{21} \times b_{11} + a_{22} \times b_{21} + a_{23} \times b_{31} + a_{24} \times b_{41}\\
-M_{31} = a_{31} \times b_{11} + a_{32} \times b_{21} + a_{33} \times b_{31} + a_{34} \times b_{41}\\
-M_{41} = a_{41} \times b_{11} + a_{42} \times b_{21} + a_{43} \times b_{31} + a_{44} \times b_{41}\\
+M_{11} = a_{11} \times b_{11} + a_{12} \times b_{21} \\
+M_{21} = a_{21} \times b_{11} + a_{22} \times b_{21} \\
+M_{31} = a_{31} \times b_{11} + a_{32} \times b_{21} \\
+M_{41} = a_{41} \times b_{11} + a_{42} \times b_{21} \\
 $$
 $$\\
-M_{12} = a_{11} \times b_{12} + a_{12} \times b_{22} + a_{13} \times b_{32} + a_{14} \times b_{42}\\
-M_{22} = a_{21} \times b_{12} + a_{22} \times b_{22} + a_{23} \times b_{32} + a_{24} \times b_{42}\\
-M_{32} = a_{31} \times b_{12} + a_{32} \times b_{22} + a_{33} \times b_{32} + a_{34} \times b_{42}\\
-M_{42} = a_{41} \times b_{12} + a_{42} \times b_{22} + a_{43} \times b_{32} + a_{44} \times b_{42}\\
+M_{12} = a_{11} \times b_{12} + a_{12} \times b_{22} \\
+M_{22} = a_{21} \times b_{12} + a_{22} \times b_{22} \\
+M_{32} = a_{31} \times b_{12} + a_{32} \times b_{22} \\
+M_{42} = a_{41} \times b_{12} + a_{42} \times b_{22} \\
 $$
 
 ## Scratchで実装してみよう
