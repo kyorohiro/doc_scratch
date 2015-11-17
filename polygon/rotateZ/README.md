@@ -18,6 +18,19 @@ $$
 ## 行列同士の掛け算
 
 
+
+## 回転した後の値
+
+
+
+## Scratchで実装してみよう
+
+
+<br>
+<br>
+<br>
+
+
 $$ \left(
 \begin{array}{ccc}
 x_{next} \\
