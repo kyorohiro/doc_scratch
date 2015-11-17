@@ -10,7 +10,12 @@
 
 $$
 \[
-  \sum_{n=1}^\infty \frac{1}{n^2} = \frac{\pi^2}{6}
-  \tag{3}
+  A = \left(
+    \begin{array}{ccc}
+      a & b & c \\
+      d & e & f \\
+      g & h & i
+    \end{array}
+  \right)
 \]
 $$
