@@ -139,6 +139,8 @@ $$
 ### (3) 確認する
 ![](gs02.png)
 
+https://scratch.mit.edu/projects/88091699/
+
 ![](gc01.png)
 
 <br>
@@ -151,4 +153,3 @@ $$
 
 
 
-https://scratch.mit.edu/projects/88091699/
