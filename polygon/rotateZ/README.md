@@ -129,4 +129,20 @@ $$
 <br>
 <br>
 <br>
+
+### (2) 回転スクリプトを追加
+![](gs01.png)
+
+### (3) 確認する
+![](gs02.png)
+
+![](gc01.png)
+
+### (4) Good!
+![](../good.png)
+
+
+
+
+
 https://scratch.mit.edu/projects/88091699/
