@@ -1,6 +1,5 @@
-# 裏と表
+# ポリゴンの裏(うら)と表(おもて)
 
-https://scratch.mit.edu/projects/88197759/
 
 ![](exp001.png)
 
