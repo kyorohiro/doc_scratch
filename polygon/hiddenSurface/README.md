@@ -100,3 +100,8 @@ https://scratch.mit.edu/projects/88197759/
 ![](zc01.png)
 
 
+### (4) Good!
+
+![](../good.png)
+
+
