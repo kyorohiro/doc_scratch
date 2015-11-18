@@ -1,18 +1,7 @@
 # Y軸で回転する
 
 
-見た目が変わらないのはここまで。ポリゴンを回転させて見ましょう。
-
-
-$$ 
-\left(\begin{array}{ccc}
-\cos\theta & 0 & \sin\theta & 0 \\
-0 & 1 & 0 & 0 \\
--\sin\theta & 0 & \cos\theta & 0 \\
-0 & 0 & 0 & 1 \\
-\end{array}
-\right)
-$$
+![](about.png)
 
 <br>
 <br>
