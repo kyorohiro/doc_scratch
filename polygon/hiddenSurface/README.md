@@ -1,5 +1,13 @@
-# 陰面消去
+# 裏と表
 
 https://scratch.mit.edu/projects/88197759/
 
-Cubeを書いてみます。
+
+
+![](exp001.png)
+
+
+
+
+
+### 裏と表を定義する
