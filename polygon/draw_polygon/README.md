@@ -43,3 +43,6 @@ https://scratch.mit.edu/projects/87995338/
 
 ![](../good.png)
 
+よくできました。次(つぎ)のステップに進(すす)みましょう。
+
+
