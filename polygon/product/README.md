@@ -132,3 +132,6 @@ https://scratch.mit.edu/projects/88081061/
 
 ### (5) Good!!
 ![](../good.png)
+
+よくできました。次(つぎ)のステップに進(すす)みましょう。
+
