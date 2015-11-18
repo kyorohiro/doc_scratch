@@ -1,5 +1,6 @@
 # Matrixの掛け算
 
+![](about.png)
 
 https://scratch.mit.edu/projects/88081061/
 
