@@ -94,4 +94,5 @@ https://scratch.mit.edu/projects/88153625/
 ![](../good.png)
 
 
+よくできました。次(つぎ)のステップに進(すす)みましょう。
 
