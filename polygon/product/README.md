@@ -1,4 +1,4 @@
-# Matrixの掛け算
+# Matrixの掛(か)け算(ざん)
 
 ![](about.png)
 
