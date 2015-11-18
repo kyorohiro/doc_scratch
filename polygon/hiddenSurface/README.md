@@ -64,7 +64,11 @@ $$\left(
   \begin{array}{ccc}
   x_{3} & y_{3} & z_{3}\\
   \end{array}
-\right)\\$$
+\right)\\$$ の三転を通る三角形の場合
+
+$$
+
+$$
 
 ## (B) Scratchで実装する
 
