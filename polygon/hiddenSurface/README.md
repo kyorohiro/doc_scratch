@@ -95,4 +95,7 @@ $$
 
 ### (3) 確認する
 
+https://scratch.mit.edu/projects/88197759/
+
+
 
