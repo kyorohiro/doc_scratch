@@ -160,6 +160,7 @@ https://scratch.mit.edu/projects/88091699/
 ### (4) Good!
 ![](../good.png)
 
+よくできました。次(つぎ)のステップに進(すす)みましょう。
 
 
 
