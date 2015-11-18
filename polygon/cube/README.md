@@ -6,18 +6,25 @@
 
 https://scratch.mit.edu/projects/88199921/
 
+<br>
+<br>
 
 ### (1) Cubeを表示(ひょうじ)するスクリプトを追加(ついか)する
 
 ![](ys01.png)
 
+<br>
+<br>
 
 ### (2) 旗(はた)がクリックされたとき、Cubeを表示(ひょうじ)するようにする
 ![](ys02.png)
 
 
-
+<br>
+<br>
 ### (3) 確認(かくにん)する
+
+https://scratch.mit.edu/projects/88199921/
 
 ![](yc01.png)
 
@@ -25,7 +32,14 @@ https://scratch.mit.edu/projects/88199921/
 ##### (3-2) Cubeが表示(ひょうじ)されること
 
 
+<br>
+<br>
+
+### (4) Good!
+
+![](../good.png)
 
 
+よくできました。次(つぎ)のステップに進(すす)みましょう。
 
 
