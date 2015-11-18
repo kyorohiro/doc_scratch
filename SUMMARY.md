@@ -88,7 +88,7 @@
   * [X軸に対して回転](polygon/rotateX/README.md)
   * [Y軸に対して回転](polygon/rotateY/README.md)
   * [完成!!](polygon/goal/README.md)
-  * [Cubeを描く](polygon/cube/README.md)
+  * [おまけ:Cubeを描く](polygon/cube/README.md)
   * [おまけ:法泉と裏面消去]
 * [基礎鍛錬のゴール](test/b001/About.md)
   * [基礎鍛錬(きそたんれん) 移動の型]
