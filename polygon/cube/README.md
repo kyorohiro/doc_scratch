@@ -16,4 +16,6 @@ https://scratch.mit.edu/projects/88199921/
 
 
 
-Cubeは
+上のような図形をCubeといいます。
+
+
