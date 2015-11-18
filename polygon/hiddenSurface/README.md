@@ -65,10 +65,14 @@ $$\left(
   x_{3} & y_{3} & z_{3}\\
   \end{array}
 \right)\\$$ の三転を通る三角形の場合
-
+$$v = \left(x_{2}-x_{1}\right) \times \left(y_{3}-y_{2}\right)
+- \left(y_{2}-y_{1}\right)\times\left(x_{3}-x_{2}\right)
 $$
 
-$$
+で、$$v$$ が、0よりも大きい場合は「表」、小さい場合は「裏」と判断できます。
+
+<br>
+<br>
 
 ## (B) Scratchで実装する
 
