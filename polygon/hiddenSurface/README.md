@@ -56,11 +56,11 @@ $$\left(
   \begin{array}{ccc}
   x_{1} & y_{1} & z_{1}\\
   \end{array}
-\right)\\$$$$\left(
+\right)\\$$, $$\left(
   \begin{array}{ccc}
   x_{2} & y_{2} & z_{2}\\
   \end{array}
-\right)\\$$$$\left(
+\right)\\$$, $$\left(
   \begin{array}{ccc}
   x_{3} & y_{3} & z_{3}\\
   \end{array}
