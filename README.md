@@ -177,3 +177,7 @@ http://creativecommons.org/licenses/by/4.0/
   * [Matrixの掛け算](polygon/product/README.md)
   * [Z軸に対して回転](polygon/rotateZ/README.md)
   * [X軸に対して回転](polygon/rotateX/README.md)
+  * [Y軸に対して回転](polygon/rotateY/README.md)
+  * [完成!!](polygon/goal/README.md)
+  * [おまけ:Cubeを描く](polygon/cube/README.md)
+  * [おまけ:法泉と裏面消去](polygon/hiddenSurface/README.md)
