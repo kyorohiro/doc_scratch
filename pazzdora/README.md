@@ -4,11 +4,10 @@
 パズドラのパズルゲームの部分を作っていきましょう。
 
 
+#### Scratchで再現してみよう
 
 ![](scratch_sample.png)
 
-
-#### Scratchで再現してみよう。
 
 
 https://scratch.mit.edu/projects/89631068/
