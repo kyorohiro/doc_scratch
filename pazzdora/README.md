@@ -5,7 +5,7 @@
 
 
 
-
+![](scratch_sample.png)
 
 
 #### Scratchで再現してみよう。
