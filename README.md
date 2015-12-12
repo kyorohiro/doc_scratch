@@ -2,9 +2,6 @@
 
 # About
 
-<br>
-<br>
-
 ### 内容
 ![](spacewar/about.png)
 
