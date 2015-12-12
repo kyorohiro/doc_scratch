@@ -5,7 +5,7 @@
 
 
 ### ドロップを描画する
-https://scratch.mit.edu/projects/91284919
+https://scratch.mit.edu/projects/91284919/
 
 ### ドロップを生成する
 
