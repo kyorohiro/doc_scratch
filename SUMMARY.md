@@ -91,6 +91,7 @@
   * [おまけ:Cubeを描く](polygon/cube/README.md)
   * [おまけ:裏と表](polygon/hiddenSurface/README.md)
 * [記録のみ:パズドラッぽいの<難易度 上中>](pazzdora/README.md)
+  * [作業記録](pazzdora/table/README.md) 
 * [基礎鍛錬のゴール](test/b001/About.md)
   * [基礎鍛錬(きそたんれん) 移動の型]
     * [開発画面を表示する](test/b001/CreateProject.md)
