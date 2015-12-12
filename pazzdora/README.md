@@ -4,7 +4,7 @@
 パズドラのパズルゲームの部分を作っていきましょう。
 
 
-#### Scratchで再現してみよう
+# Scratchで再現してみよう
 
 ![](scratch_sample.png)
 
