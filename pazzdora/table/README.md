@@ -46,7 +46,7 @@ https://scratch.mit.edu/projects/91343315/
 
 https://scratch.mit.edu/projects/91347588/
 
-ドロップを移動して、
+ドロップを移動すると、ドロップが入れ替わるようにします。
 
 <br>
 ## ドロップをクリアする
