@@ -57,6 +57,7 @@ https://scratch.mit.edu/projects/91347588/
 https://scratch.mit.edu/projects/91349418/
 
 <br>
+## Y軸方向に揃ったら、ドロップをクリアする
 
 ## クリアした分だけドロップを追加する
 <br>
