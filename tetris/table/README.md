@@ -75,9 +75,10 @@ https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/rotate_right/index.html
 
 ## (12) 揃った列をクリアする
 
+![](a9ff5f9f-5fa3-6d5e-3976-d1e4139e1907.png)
+
 https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/clear/index.html
 
-<img width="81" alt="board_4.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/a9ff5f9f-5fa3-6d5e-3976-d1e4139e1907.png">
 
 ## (13) 落下させる
 https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/fall_tetromino/index.html
