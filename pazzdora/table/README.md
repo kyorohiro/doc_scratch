@@ -43,7 +43,7 @@ https://scratch.mit.edu/projects/91343315/
 <br>
 
 ## ドロップを移動する
-
+![](c5.png)
 
 https://scratch.mit.edu/projects/91347588/
 
