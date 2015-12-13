@@ -13,6 +13,8 @@ https://scratch.mit.edu/projects/91284919/
 
 ## ドロップを生成する
 
+![](c2.png)
+
 https://scratch.mit.edu/projects/91290061/
 
 今回つくるゲームでは、36個のドロップを使用します。
