@@ -125,5 +125,5 @@ http://creativecommons.org/licenses/by/4.0/
 * [作業テーブル:パズドラッぽいの<難易度 上中>](pazzdora/README.md)
   * [Table](pazzdora/table/README.md) 
   * [完成!!](pazzdora/goal/README.md)
- 
+
 
