@@ -90,7 +90,7 @@
   * [完成!!](polygon/goal/README.md)
   * [おまけ:Cubeを描く](polygon/cube/README.md)
   * [おまけ:裏と表](polygon/hiddenSurface/README.md)
-* [記録のみ:パズドラッぽいの<難易度 上中>](pazzdora/README.md)
+* [作業テーブル:パズドラッぽいの<難易度 上中>](pazzdora/README.md)
   * [Table](pazzdora/table/README.md) 
 * [基礎鍛錬のゴール](test/b001/About.md)
   * [基礎鍛錬(きそたんれん) 移動の型]
