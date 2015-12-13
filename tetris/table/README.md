@@ -38,9 +38,11 @@ https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/create_tetromino/index.
 
 
 ## (7) (6)以外のテトロミノを表示する
+
+![](6e37df41-5959-860d-c7fc-c1d0487fa8e3.png)
+
 https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/create_tetriminos/index.html
 
-<img width="135" alt="tetrimino.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/6e37df41-5959-860d-c7fc-c1d0487fa8e3.png">
 
 ## (8) テトロミノの衝突判定
 https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/collision/index.html
