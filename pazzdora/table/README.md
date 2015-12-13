@@ -51,7 +51,9 @@ https://scratch.mit.edu/projects/91347588/
 
 <br>
 ## ドロップをクリアする
+<br>
 
 ## クリアした分だけドロップを追加する
-
+<br>
 ## 完成
+<br>
