@@ -32,6 +32,9 @@ https://scratch.mit.edu/projects/91341934/
 
 ## ドロップを選択できるようにする
 
+https://scratch.mit.edu/projects/91343315/
+
+
 ## ドロップを移動する
 
 ## ドロップをクリアする
