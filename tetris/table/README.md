@@ -11,10 +11,10 @@ https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/create_project/index.ht
 https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/remove_neko/index.html
 
 ## (3) フィールドを作成する
+![](f135e91b-d6b3-49f5-07c0-4b85e47fba00.png)
 
 https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/create_board/index.html
 
-<img width="200" alt="board.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/f135e91b-d6b3-49f5-07c0-4b85e47fba00.png">
 
 ## (4) フィールドに状態を持たせる。枠とか空とかテトロミノとか
 
