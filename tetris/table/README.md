@@ -32,9 +32,9 @@ https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/create_frame/index.html
 
 ## (6) テトリスを表示する
 
-https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/create_tetromino/index.html
+![](86e80fd9-1b9a-7834-05f0-6020420e18b5.png)
 
-<img width="135" alt="tetrimino.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/86e80fd9-1b9a-7834-05f0-6020420e18b5.png">
+https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/create_tetromino/index.html
 
 
 ## (7) (6)以外のテトロミノを表示する
