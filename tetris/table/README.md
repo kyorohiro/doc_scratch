@@ -81,8 +81,12 @@ https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/clear/index.html
 
 
 ## (13) 落下させる
+
+![](f76234d0-c7ec-0b17-3ee2-0547ad9da08f.png)
+
+
 https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/fall_tetromino/index.html
-<img width="81" alt="board_2.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/f76234d0-c7ec-0b17-3ee2-0547ad9da08f.png">
+
 
 ## (14) 完成です。
 
