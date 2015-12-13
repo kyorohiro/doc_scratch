@@ -32,7 +32,11 @@ https://scratch.mit.edu/projects/91341934/
 
 ## ドロップを選択できるようにする
 
+![](c4.png)
+
 https://scratch.mit.edu/projects/91343315/
+マウスが押された時のドロップの位置を記録してみる。
+
 
 
 ## ドロップを移動する
