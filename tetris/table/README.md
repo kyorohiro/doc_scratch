@@ -45,14 +45,19 @@ https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/create_tetriminos/index
 
 
 ## (8) テトロミノの衝突判定
+
+![](a4a759cf-cb81-d0fc-5ad5-0812ca179cf2.png)
+
 https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/collision/index.html
 
-<img width="81" alt="board_2.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/a4a759cf-cb81-d0fc-5ad5-0812ca179cf2.png">
+
 
 ## (9) 下に移動する
 
+![](0295b742-adc5-ddca-7d57-3c6c51983922.png)
+
 https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/down/index.html
-<img width="81" alt="board_2.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/0295b742-adc5-ddca-7d57-3c6c51983922.png">
+
 
 ## (10) 左右に移動する
 https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/move_left/index.html
