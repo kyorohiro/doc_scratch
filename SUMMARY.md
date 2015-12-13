@@ -31,6 +31,7 @@
   * [打つ向きを変える](pong/direction/README.md)
   * [完成!!](pong/goal/README.md)
 * [Tiny TETRIS<難易度 上上>](tetris/README.md) 
+  * [Table](tetris/table/README.md) 
   * [プロジェクトを作る](tetris/create_project/README.md)
   * [ネコを削除する](tetris/remove_neko/README.md)
   * [フィールドを作成する](tetris/create_board/README.md)
