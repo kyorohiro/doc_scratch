@@ -71,5 +71,9 @@ https://scratch.mit.edu/projects/91354269/
 
 
 <br>
+## クリアされたプロックを再設定する
+
+
+<br>
 ## 完成
 <br>
