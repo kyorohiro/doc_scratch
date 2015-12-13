@@ -122,7 +122,8 @@ http://creativecommons.org/licenses/by/4.0/
   * [完成!!](polygon/goal/README.md)
   * [おまけ:Cubeを描く](polygon/cube/README.md)
   * [おまけ:裏と表](polygon/hiddenSurface/README.md)
-* [パズドラッぽいの](pazzdora/README.md)
+* [作業テーブル:パズドラッぽいの<難易度 上中>](pazzdora/README.md)
   * [Table](pazzdora/table/README.md) 
+  * [完成!!](pazzdora/goal/README.md)
  
 
