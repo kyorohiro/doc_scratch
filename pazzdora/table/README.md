@@ -59,7 +59,7 @@ https://scratch.mit.edu/projects/91349418/
 <br>
 ## Y軸方向に揃ったら、ドロップをクリアする
 
-
+![](c7.png)
 https://scratch.mit.edu/projects/91353699/#player
 
 <br>
