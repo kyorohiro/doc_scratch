@@ -25,7 +25,9 @@ https://scratch.mit.edu/projects/91290061/
 <br>
 
 ## Tableを描画する
+
 https://scratch.mit.edu/projects/91341934/
+生成したドロップを表示してみましょう。
 
 ## ドロップを選択できるようにする
 
