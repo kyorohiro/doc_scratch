@@ -23,7 +23,14 @@ https://ja.wikipedia.org/wiki/パズル%26ドラゴンズ
 
 ![](scratch_sample.png)
 
+プロトタイプは以下
+
 https://scratch.mit.edu/projects/89631068/
+
+完成品は以下
+
+https://scratch.mit.edu/projects/91358081/
+
 
 マウスでプロックをドラッグ&デロップする事で、ドロップの位置を変更する事ができます。
 縦 or 横に3つ同じ色が揃うと、揃ったブロックが消えます。
