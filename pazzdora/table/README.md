@@ -64,7 +64,8 @@ https://scratch.mit.edu/projects/91349418/
 https://scratch.mit.edu/projects/91353699/#player
 
 <br>
-## クリアした分だけドロップを追加する
+## クリアした後、Tableを正規化する。
+https://scratch.mit.edu/projects/91354269/
 <br>
 ## 完成
 <br>
