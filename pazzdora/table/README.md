@@ -53,7 +53,8 @@ https://scratch.mit.edu/projects/91347588/
 ## X軸方向に揃ったら、ドロップをクリアする
 
 ![](c6.png)
-https://scratch.mit.edu/projects/91347588/
+
+https://scratch.mit.edu/projects/91349418/
 
 <br>
 
