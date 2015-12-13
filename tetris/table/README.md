@@ -60,15 +60,18 @@ https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/down/index.html
 
 
 ## (10) 左右に移動する
+
+![](f888f995-f2e1-f09a-087d-dac07070e88a.png)
+
 https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/move_left/index.html
 
-<img width="81" alt="board_2.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/f888f995-f2e1-f09a-087d-dac07070e88a.png">
 
 ## (11) 回転させる
 
+![](0113e266-bd3c-1070-d6cb-ec855084df02.png)
+
 https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/rotate_right/index.html
 
-<img width="81" alt="board_2.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/0113e266-bd3c-1070-d6cb-ec855084df02.png">
 
 ## (12) 揃った列をクリアする
 
