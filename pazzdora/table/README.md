@@ -52,6 +52,8 @@ https://scratch.mit.edu/projects/91347588/
 <br>
 ## X軸方向に揃ったら、ドロップをクリアする
 
+![](c6.png)
+https://scratch.mit.edu/projects/91347588/
 
 <br>
 
