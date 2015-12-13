@@ -30,6 +30,8 @@ https://scratch.mit.edu/projects/91290061/
 https://scratch.mit.edu/projects/91341934/
 生成したドロップを表示してみましょう。
 
+<br>
+
 ## ドロップを選択できるようにする
 
 ![](c4.png)
@@ -38,9 +40,11 @@ https://scratch.mit.edu/projects/91343315/
 
 マウスが押された時のドロップの位置を記録してみる。
 
-
+<br>
 
 ## ドロップを移動する
+
+ドロップを移動して、
 
 ## ドロップをクリアする
 
