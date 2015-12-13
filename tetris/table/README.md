@@ -19,9 +19,9 @@ https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/create_board/index.html
 
 ## (4) フィールドに状態を持たせる。枠とか空とかテトロミノとか
 
-https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/create_board_state/index.html
+![](175d1767-baa6-7b80-3f57-4ea04d8e9029.png)
 
-![test.png](https://qiita-image-store.s3.amazonaws.com/0/54192/175d1767-baa6-7b80-3f57-4ea04d8e9029.png)
+https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/create_board_state/index.html
 
 ## (5) フィールドに枠を表示する
 
