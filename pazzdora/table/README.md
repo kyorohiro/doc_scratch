@@ -73,6 +73,8 @@ https://scratch.mit.edu/projects/91354269/
 <br>
 ## クリアされたプロックを再設定する
 
+https://scratch.mit.edu/projects/91357595/
+
 
 <br>
 ## 完成
