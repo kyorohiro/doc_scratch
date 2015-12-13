@@ -25,9 +25,10 @@ https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/create_board_state/inde
 
 ## (5) フィールドに枠を表示する
 
+![](13c378d1-6ef2-a9be-715c-f871f0db7ef5.png)
+
 https://kyorohiro.gitbooks.io/doc_scratch/content/tetris/create_frame/index.html
 
-<img width="81" alt="board_2.png" src="https://qiita-image-store.s3.amazonaws.com/0/54192/13c378d1-6ef2-a9be-715c-f871f0db7ef5.png">
 
 ## (6) テトリスを表示する
 
