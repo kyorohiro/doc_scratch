@@ -65,7 +65,11 @@ https://scratch.mit.edu/projects/91353699/#player
 
 <br>
 ## クリアした後、Tableを正規化する。
+![](c8.png)
+
 https://scratch.mit.edu/projects/91354269/
+
+
 <br>
 ## 完成
 <br>
