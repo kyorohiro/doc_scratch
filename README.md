@@ -17,8 +17,7 @@
 
  2015/08/16 の時点で、プログラム道場向けの日本語のプログラムのチュートリアルが少ない状態にあります。これらを、補強する目的として、チュートリアルの作成と公開をする事にしました。
 　どんどん追加していきます。
-
-<br>
+https://www.gitbook.com/book/kyorohiro/firestyle/details<br>
 <br>
 　
 ### LICENSES
@@ -31,6 +30,11 @@ http://creativecommons.org/licenses/by/4.0/
 <br>
 <br>
 
+### その他
+Scratchが初めての型は以下もどうぞ
+
+##### 火の型 Scratchでプログラム入門
+https://github.com/firefirestyle/ebook_firestyle_clippaintnt/tree/master/pdf
 
 ### Table 
 * [Tennis For Two <難易度 中上>](tennis_of_two/README.md)
