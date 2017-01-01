@@ -34,7 +34,10 @@ http://creativecommons.org/licenses/by/4.0/
 Scratchが初めての型は以下もどうぞ
 
 ##### 火の型 Scratchでプログラム入門
-https://github.com/firefirestyle/ebook_firestyle_clippaintnt/tree/master/pdf
+https://www.gitbook.com/book/kyorohiro/firestyle/details
+  
+<br>
+<br>
 
 ### Table 
 * [Tennis For Two <難易度 中上>](tennis_of_two/README.md)
