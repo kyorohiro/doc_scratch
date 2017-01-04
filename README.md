@@ -31,7 +31,7 @@ http://creativecommons.org/licenses/by/4.0/
 <br>
 
 ### その他
-Scratchが初めての型は以下もどうぞ
+Scratchが初めての方は以下もどうぞ
 
 ##### 火の型 Scratchでプログラム入門
 https://www.gitbook.com/book/kyorohiro/firestyle/details
