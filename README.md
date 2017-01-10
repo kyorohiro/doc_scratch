@@ -1,4 +1,5 @@
-[homeに戻る](https://www.gitbook.com/@kyorohiro)
+# [homeに戻る](https://www.gitbook.com/@kyorohiro)
+
 
 ![](cover.png)
 
