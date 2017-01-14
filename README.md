@@ -33,11 +33,7 @@ http://creativecommons.org/licenses/by/4.0/
 <br>
 <br>
 
-### その他
-Scratchが初めての方は以下もどうぞ
 
-##### 火の型 Scratchでプログラム入門
-https://www.gitbook.com/book/kyorohiro/firestyle/details
   
 <br>
 <br>
@@ -138,3 +134,12 @@ https://www.gitbook.com/book/kyorohiro/firestyle/details
   * [完成!!](pazzdora/goal/README.md)
 
 
+# 入門者向け
+炎の型は難易度が高めなので、
+Scratchが初めての方向けに、Scratch を用いた プログラムの入門記事を書きました。
+
+こたらも、どうぞ。
+
+##### 火の型 Scratchでプログラム入門
+https://www.gitbook.com/book/kyorohiro/firestyle/details
+![](/assets/FireStyle_000_00_003.png)
