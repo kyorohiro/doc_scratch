@@ -140,6 +140,6 @@ Scratchが初めての方向けに、Scratch を用いた プログラムの入�
 
 こたらも、どうぞ。
 
-##### 火の型 Scratchでプログラム入門
+##### 火の型 Scratch 2.0 でプログラム入門
 https://www.gitbook.com/book/kyorohiro/firestyle/details
 ![](/assets/FireStyle_000_00_003.png)
