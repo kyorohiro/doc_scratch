@@ -1,4 +1,6 @@
-# [homeに戻る](https://www.gitbook.com/@kyorohiro)
+#[炎の型工房に戻る](http://firefirestyle.net/)or [Gitbook@kyorohiroに戻る](https://www.gitbook.com/@kyorohiro)
+
+
 
 
 ![](cover.png)
