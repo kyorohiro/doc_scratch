@@ -17,6 +17,15 @@
 <br>
 <br>
 
+## 注意
+見れないページがある場合は、以下を参照いてください!!
+https://kyorohiro.github.io/firefirebook/index.html
+
+<br>
+<br>
+
+
+
 ### ことはじめ
  本文書は、CoderDojo八王子にて進行を務めるにあたり、Kyorohiroがまとめたものです。
 
