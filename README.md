@@ -1,6 +1,6 @@
 #[炎の型工房に戻る](http://firefirestyle.net/)or [Gitbook@kyorohiroに戻る](https://www.gitbook.com/@kyorohiro)
 
-[By kyorohiro (河村潔広)](http://kyorohiro.github.io/)
+[By kyorohiro](http://kyorohiro.github.io/)
 
 
 ![](cover.png)
